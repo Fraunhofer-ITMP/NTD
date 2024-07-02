@@ -1,0 +1,6 @@
+pandas
+rdkit
+tqdm
+matplotlib
+seaborn
+venny4py

@@ -1,6 +1,14 @@
+pybel
 pandas
-rdkit
-tqdm
-matplotlib
+chembl_webresource_client
+openpyxl
+networkx
 seaborn
+pubchempy
+jupyter
+matplotlib
+pillow
+numpy
+rdkit
 venny4py
+tqdm

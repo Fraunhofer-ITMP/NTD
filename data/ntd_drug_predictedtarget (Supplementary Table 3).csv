@@ -1,0 +1,826 @@
+,target_chemblid,organism,pref_name,70%,80%,90%,threshold,drugid,uniprot,symbol
+0,CHEMBL2157850,Homo sapiens,Ubiquitin carboxyl-terminal hydrolase 7,empty,empty,active,6.0,CHEMBL370143,Q93009,USP7
+1,CHEMBL4618,Homo sapiens,Leukotriene A4 hydrolase,empty,active,active,6.0,CHEMBL370143,P09960,LTA4H
+2,CHEMBL5880,Homo sapiens,Interleukin-2,active,active,active,6.0,CHEMBL370143,P60568,IL2
+3,CHEMBL2111432,Homo sapiens,PI3-kinase p110-delta/p85-alpha,active,active,active,6.0,CHEMBL370143,P27986,PIK3R1
+4,CHEMBL3004,Homo sapiens,Multidrug resistance-associated protein 1,empty,empty,active,6.0,CHEMBL370143,P33527,ABCC1
+5,CHEMBL3060,Homo sapiens,Glycine transporter 2,empty,empty,active,6.0,CHEMBL370143,Q9Y345,SLC6A5
+6,CHEMBL4685,Homo sapiens,"Indoleamine 2,3-dioxygenase",active,active,active,6.0,CHEMBL370143,P14902,IDO1
+7,CHEMBL5163,Homo sapiens,Sodium channel protein type III alpha subunit,active,active,active,5.0,CHEMBL370143,Q9NY46,SCN3A
+8,CHEMBL3880,Homo sapiens,Heat shock protein HSP 90-alpha,empty,active,active,6.0,CHEMBL370143,P07900,HSP90AA1
+9,CHEMBL3108639,Homo sapiens,Cat eye syndrome critical region protein 2,active,active,active,6.0,CHEMBL370143,Q9BXF3,CECR2
+10,CHEMBL4523,Homo sapiens,Serine/threonine-protein kinase PIM2,empty,active,active,7.5,CHEMBL370143,Q9P1W9,PIM2
+11,CHEMBL268,Homo sapiens,Cathepsin K,empty,active,active,6.0,CHEMBL370143,P43235,CTSK
+12,CHEMBL4508,Homo sapiens,Glutaminyl-peptide cyclotransferase,active,active,active,6.0,CHEMBL370143,Q16769,QPCT
+13,CHEMBL2955,Homo sapiens,Sphingosine 1-phosphate receptor Edg-5,empty,active,active,7.0,CHEMBL370143,O95136,S1PR2
+14,CHEMBL3632452,Homo sapiens,Mucosa-associated lymphoid tissue lymphoma translocation protein 1,empty,empty,active,6.0,CHEMBL370143,Q9UDY8,MALT1
+15,CHEMBL4462,Homo sapiens,NAD-dependent deacetylase sirtuin 2,empty,empty,active,6.0,CHEMBL370143,Q8IXJ6,SIRT2
+16,CHEMBL2169736,Homo sapiens,Tyrosyl-DNA phosphodiesterase 2,empty,active,active,6.0,CHEMBL370143,O95551,TDP2
+17,CHEMBL3286,Homo sapiens,Urokinase-type plasminogen activator,active,active,active,6.0,CHEMBL370143,P00749,PLAU
+18,CHEMBL3130,Homo sapiens,PI3-kinase p110-delta subunit,active,active,active,6.0,CHEMBL370143,O00329,PIK3CD
+19,CHEMBL275,Homo sapiens,Phosphodiesterase 4B,empty,empty,active,6.0,CHEMBL370143,Q07343,PDE4B
+20,CHEMBL2094108,Homo sapiens,Protein farnesyltransferase,empty,active,active,6.0,CHEMBL370143,P49354,FNTA
+21,CHEMBL3137262,Homo sapiens,LSD1/CoREST complex,active,active,active,6.0,CHEMBL370143,O60341,KDM1A
+22,CHEMBL1907604,Homo sapiens,Glutamate NMDA receptor; GRIN1/GRIN2A,active,active,active,5.0,CHEMBL370143,Q05586,GRIN1
+23,CHEMBL1825,Homo sapiens,TNF-alpha,empty,active,active,6.0,CHEMBL1082,P01375,TNF
+24,CHEMBL3060,Homo sapiens,Glycine transporter 2,empty,empty,active,6.0,CHEMBL1082,Q9Y345,SLC6A5
+25,CHEMBL2163176,Homo sapiens,Lysine-specific demethylase 5C,empty,empty,active,6.0,CHEMBL1082,P41229,KDM5C
+26,CHEMBL3922,Homo sapiens,Methionine aminopeptidase 2,empty,active,active,6.0,CHEMBL1082,P50579,METAP2
+27,CHEMBL4508,Homo sapiens,Glutaminyl-peptide cyclotransferase,empty,active,active,6.0,CHEMBL1082,Q16769,QPCT
+28,CHEMBL2781,Homo sapiens,Sodium/hydrogen exchanger 1,empty,active,active,6.0,CHEMBL1082,P19634,SLC9A1
+29,CHEMBL2955,Homo sapiens,Sphingosine 1-phosphate receptor Edg-5,empty,active,active,7.0,CHEMBL1082,O95136,S1PR2
+30,CHEMBL2617,Homo sapiens,Tryptase beta-1,active,active,active,6.0,CHEMBL1082,Q15661,TPSAB1
+31,CHEMBL1907604,Homo sapiens,Glutamate NMDA receptor; GRIN1/GRIN2A,empty,active,active,5.0,CHEMBL1082,Q05586,GRIN1
+32,CHEMBL1293267,Homo sapiens,G-protein coupled receptor 35,active,active,active,7.0,CHEMBL1082,Q9HC97,GPR35
+33,CHEMBL3807,Homo sapiens,T-cell protein-tyrosine phosphatase,empty,active,active,6.0,CHEMBL1082,P17706,PTPN2
+34,CHEMBL4793,Homo sapiens,Dipeptidyl peptidase IX,empty,empty,active,6.0,CHEMBL1200709,Q86TI2,DPP9
+35,CHEMBL1907594,Homo sapiens,Neuronal acetylcholine receptor; alpha3/beta4,empty,active,active,5.0,CHEMBL1200709,P30926,CHRNB4
+36,CHEMBL1899,Homo sapiens,Serotonin 3a (5-HT3a) receptor,active,active,active,5.0,CHEMBL1200709,P46098,HTR3A
+37,CHEMBL4979,Homo sapiens,Sodium/glucose cotransporter 1,active,active,active,6.0,CHEMBL1200709,P13866,SLC5A1
+38,CHEMBL2073,Homo sapiens,Tyrosine-protein kinase YES,active,active,active,6.5,CHEMBL1200709,P07947,YES1
+39,CHEMBL3807,Homo sapiens,T-cell protein-tyrosine phosphatase,empty,active,active,6.0,CHEMBL1200709,P17706,PTPN2
+40,CHEMBL2157850,Homo sapiens,Ubiquitin carboxyl-terminal hydrolase 7,empty,empty,active,6.0,CHEMBL2206196,Q93009,USP7
+41,CHEMBL4618,Homo sapiens,Leukotriene A4 hydrolase,empty,active,active,6.0,CHEMBL2206196,P09960,LTA4H
+42,CHEMBL5880,Homo sapiens,Interleukin-2,active,active,active,6.0,CHEMBL2206196,P60568,IL2
+43,CHEMBL2111432,Homo sapiens,PI3-kinase p110-delta/p85-alpha,active,active,active,6.0,CHEMBL2206196,P27986,PIK3R1
+44,CHEMBL2326,Homo sapiens,Carbonic anhydrase VII,empty,active,active,6.0,CHEMBL2206196,P43166,CA7
+45,CHEMBL3004,Homo sapiens,Multidrug resistance-associated protein 1,empty,empty,active,6.0,CHEMBL2206196,P33527,ABCC1
+46,CHEMBL3060,Homo sapiens,Glycine transporter 2,empty,empty,active,6.0,CHEMBL2206196,Q9Y345,SLC6A5
+47,CHEMBL4685,Homo sapiens,"Indoleamine 2,3-dioxygenase",active,active,active,6.0,CHEMBL2206196,P14902,IDO1
+48,CHEMBL5163,Homo sapiens,Sodium channel protein type III alpha subunit,active,active,active,5.0,CHEMBL2206196,Q9NY46,SCN3A
+49,CHEMBL3880,Homo sapiens,Heat shock protein HSP 90-alpha,empty,active,active,6.0,CHEMBL2206196,P07900,HSP90AA1
+50,CHEMBL3108639,Homo sapiens,Cat eye syndrome critical region protein 2,active,active,active,6.0,CHEMBL2206196,Q9BXF3,CECR2
+51,CHEMBL4523,Homo sapiens,Serine/threonine-protein kinase PIM2,empty,active,active,7.5,CHEMBL2206196,Q9P1W9,PIM2
+52,CHEMBL268,Homo sapiens,Cathepsin K,empty,active,active,6.0,CHEMBL2206196,P43235,CTSK
+53,CHEMBL1795139,Homo sapiens,Transmembrane protease serine 6,empty,active,active,6.0,CHEMBL2206196,Q8IU80,TMPRSS6
+54,CHEMBL4508,Homo sapiens,Glutaminyl-peptide cyclotransferase,active,active,active,6.0,CHEMBL2206196,Q16769,QPCT
+55,CHEMBL2955,Homo sapiens,Sphingosine 1-phosphate receptor Edg-5,empty,active,active,7.0,CHEMBL2206196,O95136,S1PR2
+56,CHEMBL2002,Homo sapiens,Inosine-5'-monophosphate dehydrogenase 2,empty,empty,active,6.0,CHEMBL2206196,P12268,IMPDH2
+57,CHEMBL3632452,Homo sapiens,Mucosa-associated lymphoid tissue lymphoma translocation protein 1,empty,empty,active,6.0,CHEMBL2206196,Q9UDY8,MALT1
+58,CHEMBL4462,Homo sapiens,NAD-dependent deacetylase sirtuin 2,empty,empty,active,6.0,CHEMBL2206196,Q8IXJ6,SIRT2
+59,CHEMBL2169736,Homo sapiens,Tyrosyl-DNA phosphodiesterase 2,empty,active,active,6.0,CHEMBL2206196,O95551,TDP2
+60,CHEMBL3286,Homo sapiens,Urokinase-type plasminogen activator,active,active,active,6.0,CHEMBL2206196,P00749,PLAU
+61,CHEMBL3130,Homo sapiens,PI3-kinase p110-delta subunit,active,active,active,6.0,CHEMBL2206196,O00329,PIK3CD
+62,CHEMBL275,Homo sapiens,Phosphodiesterase 4B,empty,active,active,6.0,CHEMBL2206196,Q07343,PDE4B
+63,CHEMBL2094108,Homo sapiens,Protein farnesyltransferase,active,active,active,6.0,CHEMBL2206196,P49354,FNTA
+64,CHEMBL2288,Homo sapiens,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,active,active,active,6.0,CHEMBL2206196,Q13526,PIN1
+65,CHEMBL3137262,Homo sapiens,LSD1/CoREST complex,active,active,active,6.0,CHEMBL2206196,O60341,KDM1A
+66,CHEMBL1907604,Homo sapiens,Glutamate NMDA receptor; GRIN1/GRIN2A,active,active,active,5.0,CHEMBL2206196,Q05586,GRIN1
+67,CHEMBL4625,Homo sapiens,Apoptosis regulator Bcl-X,active,active,active,5.0,CHEMBL376488,Q07817,BCL2L1
+68,CHEMBL231,Homo sapiens,Histamine H1 receptor,empty,empty,active,7.0,CHEMBL376488,P35367,HRH1
+69,CHEMBL1907591,Homo sapiens,Neuronal acetylcholine receptor; alpha4/beta4,active,active,active,5.0,CHEMBL376488,P30926,CHRNB4
+70,CHEMBL1798,Homo sapiens,Cysteinyl leukotriene receptor 1,empty,empty,active,7.0,CHEMBL376488,Q9Y271,CYSLTR1
+71,CHEMBL1163125,Homo sapiens,Bromodomain-containing protein 4,empty,empty,active,6.0,CHEMBL376488,O60885,BRD4
+72,CHEMBL222,Homo sapiens,Norepinephrine transporter,active,active,active,6.0,CHEMBL376488,P23975,SLC6A2
+73,CHEMBL4860,Homo sapiens,Apoptosis regulator Bcl-2,empty,active,active,5.0,CHEMBL376488,P10415,BCL2
+74,CHEMBL3060,Homo sapiens,Glycine transporter 2,empty,empty,active,6.0,CHEMBL376488,Q9Y345,SLC6A5
+75,CHEMBL4531,Homo sapiens,Galectin-3,empty,empty,active,6.0,CHEMBL376488,P17931,LGALS3
+76,CHEMBL3991501,Homo sapiens,"Isocitrate dehydrogenase [NADP], mitochondrial",active,active,active,6.0,CHEMBL376488,P48735,IDH2
+77,CHEMBL2000,Homo sapiens,Plasma kallikrein,empty,active,active,6.0,CHEMBL376488,P03952,KLKB1
+78,CHEMBL2016,Homo sapiens,Coagulation factor IX,active,active,active,6.0,CHEMBL376488,P00740,F9
+79,CHEMBL1075317,Homo sapiens,WD repeat-containing protein 5,active,active,active,6.0,CHEMBL376488,P61964,WDR5
+80,CHEMBL3142,Homo sapiens,DNA-dependent protein kinase,empty,empty,active,7.5,CHEMBL376488,P78527,PRKDC
+81,CHEMBL2288,Homo sapiens,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,active,active,active,6.0,CHEMBL376488,Q13526,PIN1
+82,CHEMBL402,Homo sapiens,HMG-CoA reductase,empty,empty,active,6.0,CHEMBL376488,P04035,HMGCR
+83,CHEMBL3922,Homo sapiens,Methionine aminopeptidase 2,empty,active,active,6.0,CHEMBL976,P50579,METAP2
+84,CHEMBL2781,Homo sapiens,Sodium/hydrogen exchanger 1,active,active,active,6.0,CHEMBL976,P19634,SLC9A1
+85,CHEMBL1899,Homo sapiens,Serotonin 3a (5-HT3a) receptor,empty,active,active,5.0,CHEMBL976,P46098,HTR3A
+86,CHEMBL3712907,Homo sapiens,Transmembrane domain-containing protein TMIGD3,empty,empty,active,6.0,CHEMBL976,P0DMS9,TMIGD3
+87,CHEMBL2288,Homo sapiens,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,empty,active,active,6.0,CHEMBL976,Q13526,PIN1
+88,CHEMBL1907604,Homo sapiens,Glutamate NMDA receptor; GRIN1/GRIN2A,empty,active,active,5.0,CHEMBL976,Q05586,GRIN1
+89,CHEMBL3594,Homo sapiens,Carbonic anhydrase IX,active,active,active,6.0,CHEMBL976,Q16790,CA9
+90,CHEMBL3807,Homo sapiens,T-cell protein-tyrosine phosphatase,active,active,active,6.0,CHEMBL976,P17706,PTPN2
+91,CHEMBL1899,Homo sapiens,Serotonin 3a (5-HT3a) receptor,active,active,active,5.0,CHEMBL110,P46098,HTR3A
+92,CHEMBL1250375,Homo sapiens,NADPH oxidase 4,empty,active,active,6.0,CHEMBL110,Q9NPH5,NOX4
+93,CHEMBL4979,Homo sapiens,Sodium/glucose cotransporter 1,empty,active,active,6.0,CHEMBL110,P13866,SLC5A1
+94,CHEMBL3807,Homo sapiens,T-cell protein-tyrosine phosphatase,active,active,active,6.0,CHEMBL110,P17706,PTPN2
+95,CHEMBL2157850,Homo sapiens,Ubiquitin carboxyl-terminal hydrolase 7,empty,active,active,6.0,CHEMBL374478,Q93009,USP7
+96,CHEMBL4618,Homo sapiens,Leukotriene A4 hydrolase,active,active,active,6.0,CHEMBL374478,P09960,LTA4H
+97,CHEMBL5880,Homo sapiens,Interleukin-2,active,active,active,6.0,CHEMBL374478,P60568,IL2
+98,CHEMBL3798,Homo sapiens,Calcitonin gene-related peptide type 1 receptor,empty,active,active,7.0,CHEMBL374478,Q16602,CALCRL
+99,CHEMBL2189121,Homo sapiens,GTPase KRas,empty,active,active,6.0,CHEMBL374478,P01116,KRAS
+100,CHEMBL3788,Homo sapiens,Serine/threonine-protein kinase PLK4,empty,empty,active,7.5,CHEMBL374478,O00444,PLK4
+101,CHEMBL2695,Homo sapiens,Focal adhesion kinase 1,active,active,active,7.5,CHEMBL374478,Q05397,PTK2
+102,CHEMBL3004,Homo sapiens,Multidrug resistance-associated protein 1,empty,empty,active,6.0,CHEMBL374478,P33527,ABCC1
+103,CHEMBL1822,Homo sapiens,Inosine-5'-monophosphate dehydrogenase 1,active,active,active,6.0,CHEMBL374478,P20839,IMPDH1
+104,CHEMBL286,Homo sapiens,Renin,active,active,active,6.0,CHEMBL374478,P00797,REN
+105,CHEMBL4860,Homo sapiens,Apoptosis regulator Bcl-2,empty,active,active,5.0,CHEMBL374478,P10415,BCL2
+106,CHEMBL4531,Homo sapiens,Galectin-3,empty,active,active,6.0,CHEMBL374478,P17931,LGALS3
+107,CHEMBL2163176,Homo sapiens,Lysine-specific demethylase 5C,empty,empty,active,6.0,CHEMBL374478,P41229,KDM5C
+108,CHEMBL244,Homo sapiens,Coagulation factor X,active,active,active,6.0,CHEMBL374478,P00742,F10
+109,CHEMBL4478,Homo sapiens,Voltage-gated N-type calcium channel alpha-1B subunit,empty,active,active,5.0,CHEMBL374478,Q00975,CACNA1B
+110,CHEMBL5163,Homo sapiens,Sodium channel protein type III alpha subunit,empty,active,active,5.0,CHEMBL374478,Q9NY46,SCN3A
+111,CHEMBL2208,Homo sapiens,MAP kinase-activated protein kinase 2,active,active,active,7.5,CHEMBL374478,P49137,MAPKAPK2
+112,CHEMBL3880,Homo sapiens,Heat shock protein HSP 90-alpha,empty,empty,active,6.0,CHEMBL374478,P07900,HSP90AA1
+113,CHEMBL4123,Homo sapiens,Neurotensin receptor 1,empty,active,active,7.0,CHEMBL374478,P30989,NTSR1
+114,CHEMBL6136,Homo sapiens,Lysine-specific histone demethylase 1,empty,empty,active,6.0,CHEMBL374478,O60341,KDM1A
+115,CHEMBL2095194,Homo sapiens,Coagulation factor VII/tissue factor,active,active,active,6.0,CHEMBL374478,P08709,F7
+116,CHEMBL4523,Homo sapiens,Serine/threonine-protein kinase PIM2,active,active,active,7.5,CHEMBL374478,Q9P1W9,PIM2
+117,CHEMBL1741208,Homo sapiens,"NACHT, LRR and PYD domains-containing protein 3",empty,active,active,6.0,CHEMBL374478,Q96P20,NLRP3
+118,CHEMBL268,Homo sapiens,Cathepsin K,empty,active,active,6.0,CHEMBL374478,P43235,CTSK
+119,CHEMBL4508,Homo sapiens,Glutaminyl-peptide cyclotransferase,active,active,active,6.0,CHEMBL374478,Q16769,QPCT
+120,CHEMBL4657,Homo sapiens,Dipeptidyl peptidase VIII,empty,empty,active,6.0,CHEMBL374478,Q6V1X1,DPP8
+121,CHEMBL3242,Homo sapiens,Carbonic anhydrase XII,active,active,active,6.0,CHEMBL374478,O43570,CA12
+122,CHEMBL2955,Homo sapiens,Sphingosine 1-phosphate receptor Edg-5,active,active,active,7.0,CHEMBL374478,O95136,S1PR2
+123,CHEMBL2002,Homo sapiens,Inosine-5'-monophosphate dehydrogenase 2,active,active,active,6.0,CHEMBL374478,P12268,IMPDH2
+124,CHEMBL3632452,Homo sapiens,Mucosa-associated lymphoid tissue lymphoma translocation protein 1,empty,active,active,6.0,CHEMBL374478,Q9UDY8,MALT1
+125,CHEMBL1075317,Homo sapiens,WD repeat-containing protein 5,empty,empty,active,6.0,CHEMBL374478,P61964,WDR5
+126,CHEMBL4462,Homo sapiens,NAD-dependent deacetylase sirtuin 2,empty,empty,active,6.0,CHEMBL374478,Q8IXJ6,SIRT2
+127,CHEMBL3130,Homo sapiens,PI3-kinase p110-delta subunit,active,active,active,6.0,CHEMBL374478,O00329,PIK3CD
+128,CHEMBL5568,Homo sapiens,Proto-oncogene tyrosine-protein kinase ROS,empty,empty,active,7.5,CHEMBL374478,P08922,ROS1
+129,CHEMBL2150837,Homo sapiens,ATPase family AAA domain-containing protein 2,empty,active,active,6.0,CHEMBL374478,Q6PL18,ATAD2
+130,CHEMBL3712907,Homo sapiens,Transmembrane domain-containing protein TMIGD3,empty,empty,active,6.0,CHEMBL374478,P0DMS9,TMIGD3
+131,CHEMBL3142,Homo sapiens,DNA-dependent protein kinase,empty,empty,active,7.5,CHEMBL374478,P78527,PRKDC
+132,CHEMBL4398,Homo sapiens,Purinergic receptor P2Y2,empty,active,active,7.0,CHEMBL374478,P41231,P2RY2
+133,CHEMBL2073,Homo sapiens,Tyrosine-protein kinase YES,active,active,active,6.5,CHEMBL374478,P07947,YES1
+134,CHEMBL3594,Homo sapiens,Carbonic anhydrase IX,active,active,active,6.0,CHEMBL374478,Q16790,CA9
+135,CHEMBL1293267,Homo sapiens,G-protein coupled receptor 35,active,active,active,7.0,CHEMBL374478,Q9HC97,GPR35
+136,CHEMBL2163176,Homo sapiens,Lysine-specific demethylase 5C,empty,empty,active,6.0,CHEMBL290960,P41229,KDM5C
+137,CHEMBL5163,Homo sapiens,Sodium channel protein type III alpha subunit,empty,active,active,5.0,CHEMBL290960,Q9NY46,SCN3A
+138,CHEMBL6136,Homo sapiens,Lysine-specific histone demethylase 1,empty,empty,active,6.0,CHEMBL290960,O60341,KDM1A
+139,CHEMBL3242,Homo sapiens,Carbonic anhydrase XII,empty,active,active,6.0,CHEMBL290960,O43570,CA12
+140,CHEMBL3632452,Homo sapiens,Mucosa-associated lymphoid tissue lymphoma translocation protein 1,active,active,active,6.0,CHEMBL290960,Q9UDY8,MALT1
+141,CHEMBL3286,Homo sapiens,Urokinase-type plasminogen activator,empty,empty,active,6.0,CHEMBL290960,P00749,PLAU
+142,CHEMBL402,Homo sapiens,HMG-CoA reductase,empty,empty,active,6.0,CHEMBL290960,P04035,HMGCR
+143,CHEMBL3137262,Homo sapiens,LSD1/CoREST complex,active,active,active,6.0,CHEMBL290960,O60341,KDM1A
+144,CHEMBL4979,Homo sapiens,Sodium/glucose cotransporter 1,empty,active,active,6.0,CHEMBL290960,P13866,SLC5A1
+145,CHEMBL2157850,Homo sapiens,Ubiquitin carboxyl-terminal hydrolase 7,empty,empty,active,6.0,CHEMBL3989515,Q93009,USP7
+146,CHEMBL5880,Homo sapiens,Interleukin-2,active,active,active,6.0,CHEMBL3989515,P60568,IL2
+147,CHEMBL1941,Homo sapiens,Histamine H2 receptor,empty,empty,active,7.0,CHEMBL3989515,P25021,HRH2
+148,CHEMBL3776,Homo sapiens,Caspase-8,active,active,active,6.0,CHEMBL3989515,Q14790,CASP8
+149,CHEMBL3004,Homo sapiens,Multidrug resistance-associated protein 1,empty,empty,active,6.0,CHEMBL3989515,P33527,ABCC1
+150,CHEMBL4608,Homo sapiens,Melanocortin receptor 5,active,active,active,7.0,CHEMBL3989515,P33032,MC5R
+151,CHEMBL286,Homo sapiens,Renin,active,active,active,6.0,CHEMBL3989515,P00797,REN
+152,CHEMBL2424,Homo sapiens,Glyoxalase I,empty,empty,active,6.0,CHEMBL3989515,Q04760,GLO1
+153,CHEMBL4531,Homo sapiens,Galectin-3,empty,empty,active,6.0,CHEMBL3989515,P17931,LGALS3
+154,CHEMBL4644,Homo sapiens,Melanocortin receptor 3,active,active,active,7.0,CHEMBL3989515,P41968,MC3R
+155,CHEMBL5163,Homo sapiens,Sodium channel protein type III alpha subunit,active,active,active,5.0,CHEMBL3989515,Q9NY46,SCN3A
+156,CHEMBL2208,Homo sapiens,MAP kinase-activated protein kinase 2,active,active,active,7.5,CHEMBL3989515,P49137,MAPKAPK2
+157,CHEMBL3880,Homo sapiens,Heat shock protein HSP 90-alpha,empty,empty,active,6.0,CHEMBL3989515,P07900,HSP90AA1
+158,CHEMBL280,Homo sapiens,Matrix metalloproteinase 13,empty,active,active,6.0,CHEMBL3989515,P45452,MMP13
+159,CHEMBL2095194,Homo sapiens,Coagulation factor VII/tissue factor,empty,active,active,6.0,CHEMBL3989515,P08709,F7
+160,CHEMBL5366,Homo sapiens,Poly [ADP-ribose] polymerase 2,empty,empty,active,6.0,CHEMBL3989515,Q9UGN5,PARP2
+161,CHEMBL4508,Homo sapiens,Glutaminyl-peptide cyclotransferase,active,active,active,6.0,CHEMBL3989515,Q16769,QPCT
+162,CHEMBL335,Homo sapiens,Protein-tyrosine phosphatase 1B,empty,active,active,6.0,CHEMBL3989515,P18031,PTPN1
+163,CHEMBL2955,Homo sapiens,Sphingosine 1-phosphate receptor Edg-5,empty,empty,active,7.0,CHEMBL3989515,O95136,S1PR2
+164,CHEMBL2002,Homo sapiens,Inosine-5'-monophosphate dehydrogenase 2,empty,empty,active,6.0,CHEMBL3989515,P12268,IMPDH2
+165,CHEMBL3130,Homo sapiens,PI3-kinase p110-delta subunit,active,active,active,6.0,CHEMBL3989515,O00329,PIK3CD
+166,CHEMBL2617,Homo sapiens,Tryptase beta-1,empty,active,active,6.0,CHEMBL3989515,Q15661,TPSAB1
+167,CHEMBL2150837,Homo sapiens,ATPase family AAA domain-containing protein 2,empty,active,active,6.0,CHEMBL3989515,Q6PL18,ATAD2
+168,CHEMBL3142,Homo sapiens,DNA-dependent protein kinase,empty,empty,active,7.5,CHEMBL3989515,P78527,PRKDC
+169,CHEMBL2288,Homo sapiens,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,active,active,active,6.0,CHEMBL3989515,Q13526,PIN1
+170,CHEMBL2069156,Homo sapiens,Kelch-like ECH-associated protein 1,active,active,active,6.0,CHEMBL3989515,Q14145,KEAP1
+171,CHEMBL4979,Homo sapiens,Sodium/glucose cotransporter 1,empty,empty,active,6.0,CHEMBL3989515,P13866,SLC5A1
+172,CHEMBL1907604,Homo sapiens,Glutamate NMDA receptor; GRIN1/GRIN2A,empty,active,active,5.0,CHEMBL3989515,Q05586,GRIN1
+173,CHEMBL3807,Homo sapiens,T-cell protein-tyrosine phosphatase,active,active,active,6.0,CHEMBL3989515,P17706,PTPN2
+174,CHEMBL1825,Homo sapiens,TNF-alpha,empty,empty,active,6.0,CHEMBL1631694,P01375,TNF
+175,CHEMBL3060,Homo sapiens,Glycine transporter 2,empty,empty,active,6.0,CHEMBL1631694,Q9Y345,SLC6A5
+176,CHEMBL1899,Homo sapiens,Serotonin 3a (5-HT3a) receptor,active,active,active,5.0,CHEMBL1631694,P46098,HTR3A
+177,CHEMBL4979,Homo sapiens,Sodium/glucose cotransporter 1,active,active,active,6.0,CHEMBL1631694,P13866,SLC5A1
+178,CHEMBL2157850,Homo sapiens,Ubiquitin carboxyl-terminal hydrolase 7,empty,empty,active,6.0,CHEMBL267345,Q93009,USP7
+179,CHEMBL5880,Homo sapiens,Interleukin-2,active,active,active,6.0,CHEMBL267345,P60568,IL2
+180,CHEMBL2487,Homo sapiens,Beta amyloid A4 protein,empty,empty,active,6.0,CHEMBL267345,P05067,APP
+181,CHEMBL2111432,Homo sapiens,PI3-kinase p110-delta/p85-alpha,active,active,active,6.0,CHEMBL267345,P27986,PIK3R1
+182,CHEMBL2695,Homo sapiens,Focal adhesion kinase 1,empty,active,active,7.5,CHEMBL267345,Q05397,PTK2
+183,CHEMBL3004,Homo sapiens,Multidrug resistance-associated protein 1,empty,empty,active,6.0,CHEMBL267345,P33527,ABCC1
+184,CHEMBL4794,Homo sapiens,Vanilloid receptor,empty,empty,active,5.0,CHEMBL267345,Q8NER1,TRPV1
+185,CHEMBL4531,Homo sapiens,Galectin-3,empty,empty,active,6.0,CHEMBL267345,P17931,LGALS3
+186,CHEMBL4685,Homo sapiens,"Indoleamine 2,3-dioxygenase",empty,active,active,6.0,CHEMBL267345,P14902,IDO1
+187,CHEMBL5163,Homo sapiens,Sodium channel protein type III alpha subunit,empty,active,active,5.0,CHEMBL267345,Q9NY46,SCN3A
+188,CHEMBL3880,Homo sapiens,Heat shock protein HSP 90-alpha,empty,empty,active,6.0,CHEMBL267345,P07900,HSP90AA1
+189,CHEMBL4123,Homo sapiens,Neurotensin receptor 1,active,active,active,7.0,CHEMBL267345,P30989,NTSR1
+190,CHEMBL3108639,Homo sapiens,Cat eye syndrome critical region protein 2,active,active,active,6.0,CHEMBL267345,Q9BXF3,CECR2
+191,CHEMBL4523,Homo sapiens,Serine/threonine-protein kinase PIM2,empty,active,active,7.5,CHEMBL267345,Q9P1W9,PIM2
+192,CHEMBL5366,Homo sapiens,Poly [ADP-ribose] polymerase 2,empty,empty,active,6.0,CHEMBL267345,Q9UGN5,PARP2
+193,CHEMBL4508,Homo sapiens,Glutaminyl-peptide cyclotransferase,active,active,active,6.0,CHEMBL267345,Q16769,QPCT
+194,CHEMBL3242,Homo sapiens,Carbonic anhydrase XII,active,active,active,6.0,CHEMBL267345,O43570,CA12
+195,CHEMBL2955,Homo sapiens,Sphingosine 1-phosphate receptor Edg-5,empty,empty,active,7.0,CHEMBL267345,O95136,S1PR2
+196,CHEMBL2002,Homo sapiens,Inosine-5'-monophosphate dehydrogenase 2,empty,empty,active,6.0,CHEMBL267345,P12268,IMPDH2
+197,CHEMBL4462,Homo sapiens,NAD-dependent deacetylase sirtuin 2,empty,active,active,6.0,CHEMBL267345,Q8IXJ6,SIRT2
+198,CHEMBL2169736,Homo sapiens,Tyrosyl-DNA phosphodiesterase 2,empty,active,active,6.0,CHEMBL267345,O95551,TDP2
+199,CHEMBL3130,Homo sapiens,PI3-kinase p110-delta subunit,active,active,active,6.0,CHEMBL267345,O00329,PIK3CD
+200,CHEMBL275,Homo sapiens,Phosphodiesterase 4B,empty,active,active,6.0,CHEMBL267345,Q07343,PDE4B
+201,CHEMBL2150837,Homo sapiens,ATPase family AAA domain-containing protein 2,empty,active,active,6.0,CHEMBL267345,Q6PL18,ATAD2
+202,CHEMBL4822,Homo sapiens,Beta-secretase 1,empty,active,active,6.0,CHEMBL267345,P56817,BACE1
+203,CHEMBL3137262,Homo sapiens,LSD1/CoREST complex,active,active,active,6.0,CHEMBL267345,O60341,KDM1A
+204,CHEMBL4979,Homo sapiens,Sodium/glucose cotransporter 1,active,active,active,6.0,CHEMBL267345,P13866,SLC5A1
+205,CHEMBL1907604,Homo sapiens,Glutamate NMDA receptor; GRIN1/GRIN2A,active,active,active,5.0,CHEMBL267345,Q05586,GRIN1
+206,CHEMBL3430892,Homo sapiens,Integrin alpha-V/beta-8,active,active,active,6.5,CHEMBL267345,P06756,ITGAV
+207,CHEMBL3594,Homo sapiens,Carbonic anhydrase IX,active,active,active,6.0,CHEMBL267345,Q16790,CA9
+208,CHEMBL1293267,Homo sapiens,G-protein coupled receptor 35,active,active,active,7.0,CHEMBL267345,Q9HC97,GPR35
+209,CHEMBL4601,Homo sapiens,Tyrosine-protein kinase BRK,active,active,active,6.5,CHEMBL267345,Q13882,PTK6
+210,CHEMBL5880,Homo sapiens,Interleukin-2,active,active,active,6.0,CHEMBL1200580,P60568,IL2
+211,CHEMBL3776,Homo sapiens,Caspase-8,empty,empty,active,6.0,CHEMBL1200580,Q14790,CASP8
+212,CHEMBL4685,Homo sapiens,"Indoleamine 2,3-dioxygenase",empty,active,active,6.0,CHEMBL1200580,P14902,IDO1
+213,CHEMBL3922,Homo sapiens,Methionine aminopeptidase 2,active,active,active,6.0,CHEMBL1200580,P50579,METAP2
+214,CHEMBL5163,Homo sapiens,Sodium channel protein type III alpha subunit,active,active,active,5.0,CHEMBL1200580,Q9NY46,SCN3A
+215,CHEMBL4508,Homo sapiens,Glutaminyl-peptide cyclotransferase,empty,active,active,6.0,CHEMBL1200580,Q16769,QPCT
+216,CHEMBL3714079,Homo sapiens,G-protein coupled receptor 84,active,active,active,7.0,CHEMBL1200580,Q9NQS5,GPR84
+217,CHEMBL2955,Homo sapiens,Sphingosine 1-phosphate receptor Edg-5,empty,empty,active,7.0,CHEMBL1200580,O95136,S1PR2
+218,CHEMBL1914,Homo sapiens,Butyrylcholinesterase,empty,empty,active,6.0,CHEMBL1200580,P06276,BCHE
+219,CHEMBL4940,Homo sapiens,L-lactate dehydrogenase B chain,empty,empty,active,6.0,CHEMBL1200580,P07195,LDHB
+220,CHEMBL2104,Homo sapiens,P2X purinoceptor 4,active,active,active,5.0,CHEMBL1200580,Q99571,P2RX4
+221,CHEMBL1829,Homo sapiens,Histone deacetylase 3,empty,active,active,6.0,CHEMBL1200580,O15379,HDAC3
+222,CHEMBL2073,Homo sapiens,Tyrosine-protein kinase YES,active,active,active,6.5,CHEMBL1200580,P07947,YES1
+223,CHEMBL1947,Homo sapiens,Thyroid hormone receptor beta-1,empty,empty,active,7.0,CHEMBL1397,P10828,THRB
+224,CHEMBL2157850,Homo sapiens,Ubiquitin carboxyl-terminal hydrolase 7,empty,empty,active,6.0,CHEMBL1397,Q93009,USP7
+225,CHEMBL5880,Homo sapiens,Interleukin-2,active,active,active,6.0,CHEMBL1397,P60568,IL2
+226,CHEMBL2189121,Homo sapiens,GTPase KRas,empty,active,active,6.0,CHEMBL1397,P01116,KRAS
+227,CHEMBL4408,Homo sapiens,Phosphodiesterase 8B,empty,empty,active,6.0,CHEMBL1397,O95263,PDE8B
+228,CHEMBL1835,Homo sapiens,Thromboxane-A synthase,empty,empty,active,6.0,CHEMBL1397,P24557,TBXAS1
+229,CHEMBL3788,Homo sapiens,Serine/threonine-protein kinase PLK4,empty,empty,active,7.5,CHEMBL1397,O00444,PLK4
+230,CHEMBL1907591,Homo sapiens,Neuronal acetylcholine receptor; alpha4/beta4,active,active,active,5.0,CHEMBL1397,P30926,CHRNB4
+231,CHEMBL3004,Homo sapiens,Multidrug resistance-associated protein 1,empty,empty,active,6.0,CHEMBL1397,P33527,ABCC1
+232,CHEMBL1822,Homo sapiens,Inosine-5'-monophosphate dehydrogenase 1,empty,active,active,6.0,CHEMBL1397,P20839,IMPDH1
+233,CHEMBL1163125,Homo sapiens,Bromodomain-containing protein 4,empty,active,active,6.0,CHEMBL1397,O60885,BRD4
+234,CHEMBL4191,Homo sapiens,Monoglyceride lipase,empty,empty,active,6.0,CHEMBL1397,Q99685,MGLL
+235,CHEMBL325,Homo sapiens,Histone deacetylase 1,active,active,active,6.0,CHEMBL1397,Q13547,HDAC1
+236,CHEMBL2424,Homo sapiens,Glyoxalase I,empty,empty,active,6.0,CHEMBL1397,Q04760,GLO1
+237,CHEMBL4531,Homo sapiens,Galectin-3,empty,active,active,6.0,CHEMBL1397,P17931,LGALS3
+238,CHEMBL4040,Homo sapiens,MAP kinase ERK2,empty,empty,active,7.5,CHEMBL1397,P28482,MAPK1
+239,CHEMBL244,Homo sapiens,Coagulation factor X,empty,active,active,6.0,CHEMBL1397,P00742,F10
+240,CHEMBL4478,Homo sapiens,Voltage-gated N-type calcium channel alpha-1B subunit,empty,empty,active,5.0,CHEMBL1397,Q00975,CACNA1B
+241,CHEMBL4644,Homo sapiens,Melanocortin receptor 3,empty,empty,active,7.0,CHEMBL1397,P41968,MC3R
+242,CHEMBL5163,Homo sapiens,Sodium channel protein type III alpha subunit,active,active,active,5.0,CHEMBL1397,Q9NY46,SCN3A
+243,CHEMBL4123,Homo sapiens,Neurotensin receptor 1,empty,active,active,7.0,CHEMBL1397,P30989,NTSR1
+244,CHEMBL284,Homo sapiens,Dipeptidyl peptidase IV,active,active,active,6.0,CHEMBL1397,P27487,DPP4
+245,CHEMBL2095194,Homo sapiens,Coagulation factor VII/tissue factor,empty,empty,active,6.0,CHEMBL1397,P08709,F7
+246,CHEMBL1741208,Homo sapiens,"NACHT, LRR and PYD domains-containing protein 3",empty,empty,active,6.0,CHEMBL1397,Q96P20,NLRP3
+247,CHEMBL5979,Homo sapiens,"Alkaline phosphatase, tissue-nonspecific isozyme",empty,active,active,6.0,CHEMBL1397,P05186,ALPL
+248,CHEMBL1795139,Homo sapiens,Transmembrane protease serine 6,empty,active,active,6.0,CHEMBL1397,Q8IU80,TMPRSS6
+249,CHEMBL4508,Homo sapiens,Glutaminyl-peptide cyclotransferase,empty,empty,active,6.0,CHEMBL1397,Q16769,QPCT
+250,CHEMBL2955,Homo sapiens,Sphingosine 1-phosphate receptor Edg-5,active,active,active,7.0,CHEMBL1397,O95136,S1PR2
+251,CHEMBL2002,Homo sapiens,Inosine-5'-monophosphate dehydrogenase 2,active,active,active,6.0,CHEMBL1397,P12268,IMPDH2
+252,CHEMBL3632452,Homo sapiens,Mucosa-associated lymphoid tissue lymphoma translocation protein 1,active,active,active,6.0,CHEMBL1397,Q9UDY8,MALT1
+253,CHEMBL275,Homo sapiens,Phosphodiesterase 4B,active,active,active,6.0,CHEMBL1397,Q07343,PDE4B
+254,CHEMBL1875,Homo sapiens,Serotonin 4 (5-HT4) receptor,active,active,active,7.0,CHEMBL1397,Q13639,HTR4
+255,CHEMBL5568,Homo sapiens,Proto-oncogene tyrosine-protein kinase ROS,empty,empty,active,7.5,CHEMBL1397,P08922,ROS1
+256,CHEMBL2150837,Homo sapiens,ATPase family AAA domain-containing protein 2,active,active,active,6.0,CHEMBL1397,Q6PL18,ATAD2
+257,CHEMBL1929,Homo sapiens,Xanthine dehydrogenase,active,active,active,6.0,CHEMBL1397,P47989,XDH
+258,CHEMBL1907603,Homo sapiens,Glutamate NMDA receptor; GRIN1/GRIN2B,empty,empty,active,5.0,CHEMBL1397,Q05586,GRIN1
+259,CHEMBL3712907,Homo sapiens,Transmembrane domain-containing protein TMIGD3,empty,active,active,6.0,CHEMBL1397,P0DMS9,TMIGD3
+260,CHEMBL4822,Homo sapiens,Beta-secretase 1,empty,empty,active,6.0,CHEMBL1397,P56817,BACE1
+261,CHEMBL3142,Homo sapiens,DNA-dependent protein kinase,empty,active,active,7.5,CHEMBL1397,P78527,PRKDC
+262,CHEMBL3023,Homo sapiens,Sphingosine kinase 2,empty,empty,active,6.0,CHEMBL1397,Q9NRA0,SPHK2
+263,CHEMBL3385,Homo sapiens,MAP kinase ERK1,active,active,active,7.5,CHEMBL1397,P27361,MAPK3
+264,CHEMBL1907604,Homo sapiens,Glutamate NMDA receptor; GRIN1/GRIN2A,empty,active,active,5.0,CHEMBL1397,Q05586,GRIN1
+265,CHEMBL3430892,Homo sapiens,Integrin alpha-V/beta-8,active,active,active,6.5,CHEMBL1397,P06756,ITGAV
+266,CHEMBL3594,Homo sapiens,Carbonic anhydrase IX,active,active,active,6.0,CHEMBL1397,Q16790,CA9
+267,CHEMBL3797,Homo sapiens,Serine-protein kinase ATM,empty,active,active,7.5,CHEMBL1397,Q13315,ATM
+268,CHEMBL2157850,Homo sapiens,Ubiquitin carboxyl-terminal hydrolase 7,empty,active,active,6.0,CHEMBL160,Q93009,USP7
+269,CHEMBL4793,Homo sapiens,Dipeptidyl peptidase IX,empty,empty,active,6.0,CHEMBL160,Q86TI2,DPP9
+270,CHEMBL5880,Homo sapiens,Interleukin-2,active,active,active,6.0,CHEMBL160,P60568,IL2
+271,CHEMBL1941,Homo sapiens,Histamine H2 receptor,empty,empty,active,7.0,CHEMBL160,P25021,HRH2
+272,CHEMBL1907591,Homo sapiens,Neuronal acetylcholine receptor; alpha4/beta4,active,active,active,5.0,CHEMBL160,P30926,CHRNB4
+273,CHEMBL3004,Homo sapiens,Multidrug resistance-associated protein 1,empty,empty,active,6.0,CHEMBL160,P33527,ABCC1
+274,CHEMBL1822,Homo sapiens,Inosine-5'-monophosphate dehydrogenase 1,empty,active,active,6.0,CHEMBL160,P20839,IMPDH1
+275,CHEMBL4608,Homo sapiens,Melanocortin receptor 5,active,active,active,7.0,CHEMBL160,P33032,MC5R
+276,CHEMBL286,Homo sapiens,Renin,active,active,active,6.0,CHEMBL160,P00797,REN
+277,CHEMBL2163176,Homo sapiens,Lysine-specific demethylase 5C,empty,empty,active,6.0,CHEMBL160,P41229,KDM5C
+278,CHEMBL244,Homo sapiens,Coagulation factor X,empty,active,active,6.0,CHEMBL160,P00742,F10
+279,CHEMBL4685,Homo sapiens,"Indoleamine 2,3-dioxygenase",empty,empty,active,6.0,CHEMBL160,P14902,IDO1
+280,CHEMBL4644,Homo sapiens,Melanocortin receptor 3,empty,empty,active,7.0,CHEMBL160,P41968,MC3R
+281,CHEMBL3922,Homo sapiens,Methionine aminopeptidase 2,active,active,active,6.0,CHEMBL160,P50579,METAP2
+282,CHEMBL4718,Homo sapiens,MAP kinase-interacting serine/threonine-protein kinase MNK1,empty,active,active,7.5,CHEMBL160,Q9BUB5,MKNK1
+283,CHEMBL5163,Homo sapiens,Sodium channel protein type III alpha subunit,empty,active,active,5.0,CHEMBL160,Q9NY46,SCN3A
+284,CHEMBL3880,Homo sapiens,Heat shock protein HSP 90-alpha,empty,active,active,6.0,CHEMBL160,P07900,HSP90AA1
+285,CHEMBL4123,Homo sapiens,Neurotensin receptor 1,empty,active,active,7.0,CHEMBL160,P30989,NTSR1
+286,CHEMBL2095194,Homo sapiens,Coagulation factor VII/tissue factor,empty,active,active,6.0,CHEMBL160,P08709,F7
+287,CHEMBL4508,Homo sapiens,Glutaminyl-peptide cyclotransferase,active,active,active,6.0,CHEMBL160,Q16769,QPCT
+288,CHEMBL4657,Homo sapiens,Dipeptidyl peptidase VIII,empty,empty,active,6.0,CHEMBL160,Q6V1X1,DPP8
+289,CHEMBL3242,Homo sapiens,Carbonic anhydrase XII,empty,active,active,6.0,CHEMBL160,O43570,CA12
+290,CHEMBL2955,Homo sapiens,Sphingosine 1-phosphate receptor Edg-5,active,active,active,7.0,CHEMBL160,O95136,S1PR2
+291,CHEMBL2002,Homo sapiens,Inosine-5'-monophosphate dehydrogenase 2,empty,active,active,6.0,CHEMBL160,P12268,IMPDH2
+292,CHEMBL299,Homo sapiens,Protein kinase C alpha,empty,active,active,7.5,CHEMBL160,P17252,PRKCA
+293,CHEMBL3632452,Homo sapiens,Mucosa-associated lymphoid tissue lymphoma translocation protein 1,empty,empty,active,6.0,CHEMBL160,Q9UDY8,MALT1
+294,CHEMBL4072,Homo sapiens,Cathepsin B,empty,active,active,6.0,CHEMBL160,P07858,CTSB
+295,CHEMBL3130,Homo sapiens,PI3-kinase p110-delta subunit,empty,active,active,6.0,CHEMBL160,O00329,PIK3CD
+296,CHEMBL275,Homo sapiens,Phosphodiesterase 4B,empty,active,active,6.0,CHEMBL160,Q07343,PDE4B
+297,CHEMBL2617,Homo sapiens,Tryptase beta-1,active,active,active,6.0,CHEMBL160,Q15661,TPSAB1
+298,CHEMBL2150837,Homo sapiens,ATPase family AAA domain-containing protein 2,active,active,active,6.0,CHEMBL160,Q6PL18,ATAD2
+299,CHEMBL248,Homo sapiens,Leukocyte elastase,empty,empty,active,6.0,CHEMBL160,P08246,ELANE
+300,CHEMBL3712907,Homo sapiens,Transmembrane domain-containing protein TMIGD3,active,active,active,6.0,CHEMBL160,P0DMS9,TMIGD3
+301,CHEMBL4822,Homo sapiens,Beta-secretase 1,active,active,active,6.0,CHEMBL160,P56817,BACE1
+302,CHEMBL3142,Homo sapiens,DNA-dependent protein kinase,empty,empty,active,7.5,CHEMBL160,P78527,PRKDC
+303,CHEMBL2288,Homo sapiens,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,active,active,active,6.0,CHEMBL160,Q13526,PIN1
+304,CHEMBL2069156,Homo sapiens,Kelch-like ECH-associated protein 1,empty,active,active,6.0,CHEMBL160,Q14145,KEAP1
+305,CHEMBL2073,Homo sapiens,Tyrosine-protein kinase YES,active,active,active,6.5,CHEMBL160,P07947,YES1
+306,CHEMBL3594,Homo sapiens,Carbonic anhydrase IX,empty,active,active,6.0,CHEMBL160,Q16790,CA9
+307,CHEMBL3807,Homo sapiens,T-cell protein-tyrosine phosphatase,empty,active,active,6.0,CHEMBL160,P17706,PTPN2
+308,CHEMBL2157850,Homo sapiens,Ubiquitin carboxyl-terminal hydrolase 7,active,active,active,6.0,CHEMBL393220,Q93009,USP7
+309,CHEMBL5880,Homo sapiens,Interleukin-2,active,active,active,6.0,CHEMBL393220,P60568,IL2
+310,CHEMBL2189121,Homo sapiens,GTPase KRas,empty,empty,active,6.0,CHEMBL393220,P01116,KRAS
+311,CHEMBL1907591,Homo sapiens,Neuronal acetylcholine receptor; alpha4/beta4,active,active,active,5.0,CHEMBL393220,P30926,CHRNB4
+312,CHEMBL3004,Homo sapiens,Multidrug resistance-associated protein 1,empty,empty,active,6.0,CHEMBL393220,P33527,ABCC1
+313,CHEMBL1798,Homo sapiens,Cysteinyl leukotriene receptor 1,empty,empty,active,7.0,CHEMBL393220,Q9Y271,CYSLTR1
+314,CHEMBL1942,Homo sapiens,Alpha-2b adrenergic receptor,empty,active,active,7.0,CHEMBL393220,P18089,ADRA2B
+315,CHEMBL1822,Homo sapiens,Inosine-5'-monophosphate dehydrogenase 1,active,active,active,6.0,CHEMBL393220,P20839,IMPDH1
+316,CHEMBL1163125,Homo sapiens,Bromodomain-containing protein 4,active,active,active,6.0,CHEMBL393220,O60885,BRD4
+317,CHEMBL4973,Homo sapiens,Excitatory amino acid transporter 2,active,active,active,6.0,CHEMBL393220,P43004,SLC1A2
+318,CHEMBL4608,Homo sapiens,Melanocortin receptor 5,empty,active,active,7.0,CHEMBL393220,P33032,MC5R
+319,CHEMBL4860,Homo sapiens,Apoptosis regulator Bcl-2,empty,active,active,5.0,CHEMBL393220,P10415,BCL2
+320,CHEMBL2424,Homo sapiens,Glyoxalase I,empty,empty,active,6.0,CHEMBL393220,Q04760,GLO1
+321,CHEMBL4531,Homo sapiens,Galectin-3,empty,empty,active,6.0,CHEMBL393220,P17931,LGALS3
+322,CHEMBL2163176,Homo sapiens,Lysine-specific demethylase 5C,empty,empty,active,6.0,CHEMBL393220,P41229,KDM5C
+323,CHEMBL278,Homo sapiens,Integrin alpha-4,empty,empty,active,6.5,CHEMBL393220,P13612,ITGA4
+324,CHEMBL4478,Homo sapiens,Voltage-gated N-type calcium channel alpha-1B subunit,empty,active,active,5.0,CHEMBL393220,Q00975,CACNA1B
+325,CHEMBL4644,Homo sapiens,Melanocortin receptor 3,active,active,active,7.0,CHEMBL393220,P41968,MC3R
+326,CHEMBL1795117,Homo sapiens,"Histone-lysine N-methyltransferase, H3 lysine-79 specific",active,active,active,6.0,CHEMBL393220,Q8TEK3,DOT1L
+327,CHEMBL5163,Homo sapiens,Sodium channel protein type III alpha subunit,empty,active,active,5.0,CHEMBL393220,Q9NY46,SCN3A
+328,CHEMBL2208,Homo sapiens,MAP kinase-activated protein kinase 2,empty,active,active,7.5,CHEMBL393220,P49137,MAPKAPK2
+329,CHEMBL3880,Homo sapiens,Heat shock protein HSP 90-alpha,empty,empty,active,6.0,CHEMBL393220,P07900,HSP90AA1
+330,CHEMBL4123,Homo sapiens,Neurotensin receptor 1,empty,active,active,7.0,CHEMBL393220,P30989,NTSR1
+331,CHEMBL280,Homo sapiens,Matrix metalloproteinase 13,active,active,active,6.0,CHEMBL393220,P45452,MMP13
+332,CHEMBL2095194,Homo sapiens,Coagulation factor VII/tissue factor,empty,active,active,6.0,CHEMBL393220,P08709,F7
+333,CHEMBL1741208,Homo sapiens,"NACHT, LRR and PYD domains-containing protein 3",empty,empty,active,6.0,CHEMBL393220,Q96P20,NLRP3
+334,CHEMBL4508,Homo sapiens,Glutaminyl-peptide cyclotransferase,active,active,active,6.0,CHEMBL393220,Q16769,QPCT
+335,CHEMBL335,Homo sapiens,Protein-tyrosine phosphatase 1B,active,active,active,6.0,CHEMBL393220,P18031,PTPN1
+336,CHEMBL2955,Homo sapiens,Sphingosine 1-phosphate receptor Edg-5,active,active,active,7.0,CHEMBL393220,O95136,S1PR2
+337,CHEMBL2002,Homo sapiens,Inosine-5'-monophosphate dehydrogenase 2,active,active,active,6.0,CHEMBL393220,P12268,IMPDH2
+338,CHEMBL1075317,Homo sapiens,WD repeat-containing protein 5,active,active,active,6.0,CHEMBL393220,P61964,WDR5
+339,CHEMBL4462,Homo sapiens,NAD-dependent deacetylase sirtuin 2,empty,empty,active,6.0,CHEMBL393220,Q8IXJ6,SIRT2
+340,CHEMBL3286,Homo sapiens,Urokinase-type plasminogen activator,empty,empty,active,6.0,CHEMBL393220,P00749,PLAU
+341,CHEMBL1889,Homo sapiens,Vasopressin V1a receptor,empty,empty,active,7.0,CHEMBL393220,P37288,AVPR1A
+342,CHEMBL3130,Homo sapiens,PI3-kinase p110-delta subunit,empty,empty,active,6.0,CHEMBL393220,O00329,PIK3CD
+343,CHEMBL275,Homo sapiens,Phosphodiesterase 4B,active,active,active,6.0,CHEMBL393220,Q07343,PDE4B
+344,CHEMBL2617,Homo sapiens,Tryptase beta-1,active,active,active,6.0,CHEMBL393220,Q15661,TPSAB1
+345,CHEMBL1901,Homo sapiens,Cholecystokinin A receptor,empty,empty,active,7.0,CHEMBL393220,P32238,CCKAR
+346,CHEMBL3142,Homo sapiens,DNA-dependent protein kinase,empty,active,active,7.5,CHEMBL393220,P78527,PRKDC
+347,CHEMBL2288,Homo sapiens,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,active,active,active,6.0,CHEMBL393220,Q13526,PIN1
+348,CHEMBL2069156,Homo sapiens,Kelch-like ECH-associated protein 1,active,active,active,6.0,CHEMBL393220,Q14145,KEAP1
+349,CHEMBL402,Homo sapiens,HMG-CoA reductase,active,active,active,6.0,CHEMBL393220,P04035,HMGCR
+350,CHEMBL1801,Homo sapiens,Plasminogen,empty,empty,active,6.0,CHEMBL393220,P00747,PLG
+351,CHEMBL1907604,Homo sapiens,Glutamate NMDA receptor; GRIN1/GRIN2A,active,active,active,5.0,CHEMBL393220,Q05586,GRIN1
+352,CHEMBL3807,Homo sapiens,T-cell protein-tyrosine phosphatase,active,active,active,6.0,CHEMBL393220,P17706,PTPN2
+353,CHEMBL3429,Homo sapiens,Estrogen-related receptor alpha,empty,active,active,7.0,CHEMBL777,P11474,ESRRA
+354,CHEMBL278,Homo sapiens,Integrin alpha-4,empty,empty,active,6.5,CHEMBL777,P13612,ITGA4
+355,CHEMBL1899,Homo sapiens,Serotonin 3a (5-HT3a) receptor,active,active,active,5.0,CHEMBL777,P46098,HTR3A
+356,CHEMBL1907604,Homo sapiens,Glutamate NMDA receptor; GRIN1/GRIN2A,empty,active,active,5.0,CHEMBL777,Q05586,GRIN1
+357,CHEMBL5880,Homo sapiens,Interleukin-2,empty,empty,active,6.0,CHEMBL36,P60568,IL2
+358,CHEMBL2487,Homo sapiens,Beta amyloid A4 protein,empty,empty,active,6.0,CHEMBL36,P05067,APP
+359,CHEMBL1825,Homo sapiens,TNF-alpha,empty,empty,active,6.0,CHEMBL36,P01375,TNF
+360,CHEMBL3429,Homo sapiens,Estrogen-related receptor alpha,empty,active,active,7.0,CHEMBL36,P11474,ESRRA
+361,CHEMBL3060,Homo sapiens,Glycine transporter 2,empty,empty,active,6.0,CHEMBL36,Q9Y345,SLC6A5
+362,CHEMBL4657,Homo sapiens,Dipeptidyl peptidase VIII,empty,empty,active,6.0,CHEMBL36,Q6V1X1,DPP8
+363,CHEMBL1899,Homo sapiens,Serotonin 3a (5-HT3a) receptor,active,active,active,5.0,CHEMBL36,P46098,HTR3A
+364,CHEMBL4979,Homo sapiens,Sodium/glucose cotransporter 1,active,active,active,6.0,CHEMBL36,P13866,SLC5A1
+365,CHEMBL1825,Homo sapiens,TNF-alpha,empty,empty,active,6.0,CHEMBL131,P01375,TNF
+366,CHEMBL2034,Homo sapiens,Glucocorticoid receptor,empty,active,active,7.0,CHEMBL131,P04150,NR3C1
+367,CHEMBL5163,Homo sapiens,Sodium channel protein type III alpha subunit,empty,active,active,5.0,CHEMBL131,Q9NY46,SCN3A
+368,CHEMBL3880,Homo sapiens,Heat shock protein HSP 90-alpha,empty,active,active,6.0,CHEMBL131,P07900,HSP90AA1
+369,CHEMBL5366,Homo sapiens,Poly [ADP-ribose] polymerase 2,empty,empty,active,6.0,CHEMBL131,Q9UGN5,PARP2
+370,CHEMBL2781,Homo sapiens,Sodium/hydrogen exchanger 1,active,active,active,6.0,CHEMBL131,P19634,SLC9A1
+371,CHEMBL3242,Homo sapiens,Carbonic anhydrase XII,empty,empty,active,6.0,CHEMBL131,O43570,CA12
+372,CHEMBL2955,Homo sapiens,Sphingosine 1-phosphate receptor Edg-5,empty,empty,active,7.0,CHEMBL131,O95136,S1PR2
+373,CHEMBL3632452,Homo sapiens,Mucosa-associated lymphoid tissue lymphoma translocation protein 1,empty,active,active,6.0,CHEMBL131,Q9UDY8,MALT1
+374,CHEMBL2288,Homo sapiens,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,active,active,active,6.0,CHEMBL131,Q13526,PIN1
+375,CHEMBL1907604,Homo sapiens,Glutamate NMDA receptor; GRIN1/GRIN2A,active,active,active,5.0,CHEMBL131,Q05586,GRIN1
+376,CHEMBL1947,Homo sapiens,Thyroid hormone receptor beta-1,empty,empty,active,7.0,CHEMBL372795,P10828,THRB
+377,CHEMBL2157850,Homo sapiens,Ubiquitin carboxyl-terminal hydrolase 7,active,active,active,6.0,CHEMBL372795,Q93009,USP7
+378,CHEMBL4618,Homo sapiens,Leukotriene A4 hydrolase,empty,active,active,6.0,CHEMBL372795,P09960,LTA4H
+379,CHEMBL5880,Homo sapiens,Interleukin-2,active,active,active,6.0,CHEMBL372795,P60568,IL2
+380,CHEMBL2111432,Homo sapiens,PI3-kinase p110-delta/p85-alpha,active,active,active,6.0,CHEMBL372795,P27986,PIK3R1
+381,CHEMBL3776,Homo sapiens,Caspase-8,empty,empty,active,6.0,CHEMBL372795,Q14790,CASP8
+382,CHEMBL3004,Homo sapiens,Multidrug resistance-associated protein 1,empty,empty,active,6.0,CHEMBL372795,P33527,ABCC1
+383,CHEMBL2424,Homo sapiens,Glyoxalase I,empty,empty,active,6.0,CHEMBL372795,Q04760,GLO1
+384,CHEMBL4685,Homo sapiens,"Indoleamine 2,3-dioxygenase",empty,empty,active,6.0,CHEMBL372795,P14902,IDO1
+385,CHEMBL1293197,Homo sapiens,Acidic mammalian chitinase,empty,active,active,6.0,CHEMBL372795,Q9BZP6,CHIA
+386,CHEMBL3922,Homo sapiens,Methionine aminopeptidase 2,empty,empty,active,6.0,CHEMBL372795,P50579,METAP2
+387,CHEMBL5163,Homo sapiens,Sodium channel protein type III alpha subunit,empty,active,active,5.0,CHEMBL372795,Q9NY46,SCN3A
+388,CHEMBL3108639,Homo sapiens,Cat eye syndrome critical region protein 2,active,active,active,6.0,CHEMBL372795,Q9BXF3,CECR2
+389,CHEMBL2095194,Homo sapiens,Coagulation factor VII/tissue factor,empty,active,active,6.0,CHEMBL372795,P08709,F7
+390,CHEMBL4523,Homo sapiens,Serine/threonine-protein kinase PIM2,empty,active,active,7.5,CHEMBL372795,Q9P1W9,PIM2
+391,CHEMBL268,Homo sapiens,Cathepsin K,empty,active,active,6.0,CHEMBL372795,P43235,CTSK
+392,CHEMBL4508,Homo sapiens,Glutaminyl-peptide cyclotransferase,active,active,active,6.0,CHEMBL372795,Q16769,QPCT
+393,CHEMBL3714079,Homo sapiens,G-protein coupled receptor 84,active,active,active,7.0,CHEMBL372795,Q9NQS5,GPR84
+394,CHEMBL2955,Homo sapiens,Sphingosine 1-phosphate receptor Edg-5,empty,active,active,7.0,CHEMBL372795,O95136,S1PR2
+395,CHEMBL3632452,Homo sapiens,Mucosa-associated lymphoid tissue lymphoma translocation protein 1,empty,empty,active,6.0,CHEMBL372795,Q9UDY8,MALT1
+396,CHEMBL4462,Homo sapiens,NAD-dependent deacetylase sirtuin 2,empty,empty,active,6.0,CHEMBL372795,Q8IXJ6,SIRT2
+397,CHEMBL2169736,Homo sapiens,Tyrosyl-DNA phosphodiesterase 2,empty,active,active,6.0,CHEMBL372795,O95551,TDP2
+398,CHEMBL4072,Homo sapiens,Cathepsin B,empty,active,active,6.0,CHEMBL372795,P07858,CTSB
+399,CHEMBL3286,Homo sapiens,Urokinase-type plasminogen activator,active,active,active,6.0,CHEMBL372795,P00749,PLAU
+400,CHEMBL3130,Homo sapiens,PI3-kinase p110-delta subunit,active,active,active,6.0,CHEMBL372795,O00329,PIK3CD
+401,CHEMBL2150837,Homo sapiens,ATPase family AAA domain-containing protein 2,empty,active,active,6.0,CHEMBL372795,Q6PL18,ATAD2
+402,CHEMBL1907604,Homo sapiens,Glutamate NMDA receptor; GRIN1/GRIN2A,empty,active,active,5.0,CHEMBL372795,Q05586,GRIN1
+403,CHEMBL2073,Homo sapiens,Tyrosine-protein kinase YES,active,active,active,6.5,CHEMBL372795,P07947,YES1
+404,CHEMBL3807,Homo sapiens,T-cell protein-tyrosine phosphatase,empty,active,active,6.0,CHEMBL372795,P17706,PTPN2
+405,CHEMBL4793,Homo sapiens,Dipeptidyl peptidase IX,empty,empty,active,6.0,CHEMBL45,Q86TI2,DPP9
+406,CHEMBL3429,Homo sapiens,Estrogen-related receptor alpha,active,active,active,7.0,CHEMBL45,P11474,ESRRA
+407,CHEMBL1899,Homo sapiens,Serotonin 3a (5-HT3a) receptor,active,active,active,5.0,CHEMBL45,P46098,HTR3A
+408,CHEMBL1825,Homo sapiens,TNF-alpha,empty,active,active,6.0,CHEMBL384467,P01375,TNF
+409,CHEMBL2034,Homo sapiens,Glucocorticoid receptor,active,active,active,7.0,CHEMBL384467,P04150,NR3C1
+410,CHEMBL4685,Homo sapiens,"Indoleamine 2,3-dioxygenase",active,active,active,6.0,CHEMBL384467,P14902,IDO1
+411,CHEMBL5163,Homo sapiens,Sodium channel protein type III alpha subunit,active,active,active,5.0,CHEMBL384467,Q9NY46,SCN3A
+412,CHEMBL3880,Homo sapiens,Heat shock protein HSP 90-alpha,empty,empty,active,6.0,CHEMBL384467,P07900,HSP90AA1
+413,CHEMBL2781,Homo sapiens,Sodium/hydrogen exchanger 1,active,active,active,6.0,CHEMBL384467,P19634,SLC9A1
+414,CHEMBL3242,Homo sapiens,Carbonic anhydrase XII,empty,active,active,6.0,CHEMBL384467,O43570,CA12
+415,CHEMBL3632452,Homo sapiens,Mucosa-associated lymphoid tissue lymphoma translocation protein 1,empty,empty,active,6.0,CHEMBL384467,Q9UDY8,MALT1
+416,CHEMBL3535,Homo sapiens,Phosphodiesterase 9A,empty,active,active,6.0,CHEMBL384467,O76083,PDE9A
+417,CHEMBL2288,Homo sapiens,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,active,active,active,6.0,CHEMBL384467,Q13526,PIN1
+418,CHEMBL3137262,Homo sapiens,LSD1/CoREST complex,active,active,active,6.0,CHEMBL384467,O60341,KDM1A
+419,CHEMBL3594,Homo sapiens,Carbonic anhydrase IX,active,active,active,6.0,CHEMBL384467,Q16790,CA9
+420,CHEMBL1907591,Homo sapiens,Neuronal acetylcholine receptor; alpha4/beta4,active,active,active,5.0,CHEMBL1282,P30926,CHRNB4
+421,CHEMBL6136,Homo sapiens,Lysine-specific histone demethylase 1,empty,empty,active,6.0,CHEMBL1282,O60341,KDM1A
+422,CHEMBL1899,Homo sapiens,Serotonin 3a (5-HT3a) receptor,active,active,active,5.0,CHEMBL1282,P46098,HTR3A
+423,CHEMBL3807,Homo sapiens,T-cell protein-tyrosine phosphatase,active,active,active,6.0,CHEMBL1282,P17706,PTPN2
+424,CHEMBL1947,Homo sapiens,Thyroid hormone receptor beta-1,empty,empty,active,7.0,CHEMBL529,P10828,THRB
+425,CHEMBL2157850,Homo sapiens,Ubiquitin carboxyl-terminal hydrolase 7,empty,empty,active,6.0,CHEMBL529,Q93009,USP7
+426,CHEMBL5880,Homo sapiens,Interleukin-2,active,active,active,6.0,CHEMBL529,P60568,IL2
+427,CHEMBL2111432,Homo sapiens,PI3-kinase p110-delta/p85-alpha,active,active,active,6.0,CHEMBL529,P27986,PIK3R1
+428,CHEMBL3788,Homo sapiens,Serine/threonine-protein kinase PLK4,empty,empty,active,7.5,CHEMBL529,O00444,PLK4
+429,CHEMBL2695,Homo sapiens,Focal adhesion kinase 1,active,active,active,7.5,CHEMBL529,Q05397,PTK2
+430,CHEMBL2326,Homo sapiens,Carbonic anhydrase VII,empty,empty,active,6.0,CHEMBL529,P43166,CA7
+431,CHEMBL3004,Homo sapiens,Multidrug resistance-associated protein 1,empty,empty,active,6.0,CHEMBL529,P33527,ABCC1
+432,CHEMBL1822,Homo sapiens,Inosine-5'-monophosphate dehydrogenase 1,empty,active,active,6.0,CHEMBL529,P20839,IMPDH1
+433,CHEMBL1163125,Homo sapiens,Bromodomain-containing protein 4,active,active,active,6.0,CHEMBL529,O60885,BRD4
+434,CHEMBL4191,Homo sapiens,Monoglyceride lipase,empty,active,active,6.0,CHEMBL529,Q99685,MGLL
+435,CHEMBL4531,Homo sapiens,Galectin-3,empty,empty,active,6.0,CHEMBL529,P17931,LGALS3
+436,CHEMBL244,Homo sapiens,Coagulation factor X,active,active,active,6.0,CHEMBL529,P00742,F10
+437,CHEMBL4685,Homo sapiens,"Indoleamine 2,3-dioxygenase",empty,active,active,6.0,CHEMBL529,P14902,IDO1
+438,CHEMBL3880,Homo sapiens,Heat shock protein HSP 90-alpha,empty,active,active,6.0,CHEMBL529,P07900,HSP90AA1
+439,CHEMBL3108639,Homo sapiens,Cat eye syndrome critical region protein 2,active,active,active,6.0,CHEMBL529,Q9BXF3,CECR2
+440,CHEMBL2095194,Homo sapiens,Coagulation factor VII/tissue factor,empty,empty,active,6.0,CHEMBL529,P08709,F7
+441,CHEMBL4523,Homo sapiens,Serine/threonine-protein kinase PIM2,active,active,active,7.5,CHEMBL529,Q9P1W9,PIM2
+442,CHEMBL268,Homo sapiens,Cathepsin K,empty,active,active,6.0,CHEMBL529,P43235,CTSK
+443,CHEMBL4508,Homo sapiens,Glutaminyl-peptide cyclotransferase,active,active,active,6.0,CHEMBL529,Q16769,QPCT
+444,CHEMBL3242,Homo sapiens,Carbonic anhydrase XII,empty,empty,active,6.0,CHEMBL529,O43570,CA12
+445,CHEMBL2176771,Homo sapiens,Complement factor D,active,active,active,6.0,CHEMBL529,P00746,CFD
+446,CHEMBL3714079,Homo sapiens,G-protein coupled receptor 84,active,active,active,7.0,CHEMBL529,Q9NQS5,GPR84
+447,CHEMBL2955,Homo sapiens,Sphingosine 1-phosphate receptor Edg-5,empty,empty,active,7.0,CHEMBL529,O95136,S1PR2
+448,CHEMBL2002,Homo sapiens,Inosine-5'-monophosphate dehydrogenase 2,active,active,active,6.0,CHEMBL529,P12268,IMPDH2
+449,CHEMBL3130,Homo sapiens,PI3-kinase p110-delta subunit,active,active,active,6.0,CHEMBL529,O00329,PIK3CD
+450,CHEMBL275,Homo sapiens,Phosphodiesterase 4B,empty,active,active,6.0,CHEMBL529,Q07343,PDE4B
+451,CHEMBL2150837,Homo sapiens,ATPase family AAA domain-containing protein 2,empty,active,active,6.0,CHEMBL529,Q6PL18,ATAD2
+452,CHEMBL1907603,Homo sapiens,Glutamate NMDA receptor; GRIN1/GRIN2B,empty,empty,active,5.0,CHEMBL529,Q05586,GRIN1
+453,CHEMBL3712907,Homo sapiens,Transmembrane domain-containing protein TMIGD3,active,active,active,6.0,CHEMBL529,P0DMS9,TMIGD3
+454,CHEMBL3142,Homo sapiens,DNA-dependent protein kinase,empty,empty,active,7.5,CHEMBL529,P78527,PRKDC
+455,CHEMBL2288,Homo sapiens,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,active,active,active,6.0,CHEMBL529,Q13526,PIN1
+456,CHEMBL4398,Homo sapiens,Purinergic receptor P2Y2,empty,active,active,7.0,CHEMBL529,P41231,P2RY2
+457,CHEMBL4979,Homo sapiens,Sodium/glucose cotransporter 1,empty,active,active,6.0,CHEMBL529,P13866,SLC5A1
+458,CHEMBL1907604,Homo sapiens,Glutamate NMDA receptor; GRIN1/GRIN2A,empty,active,active,5.0,CHEMBL529,Q05586,GRIN1
+459,CHEMBL2073,Homo sapiens,Tyrosine-protein kinase YES,active,active,active,6.5,CHEMBL529,P07947,YES1
+460,CHEMBL4601,Homo sapiens,Tyrosine-protein kinase BRK,active,active,active,6.5,CHEMBL529,Q13882,PTK6
+461,CHEMBL3807,Homo sapiens,T-cell protein-tyrosine phosphatase,empty,active,active,6.0,CHEMBL529,P17706,PTPN2
+462,CHEMBL4408,Homo sapiens,Phosphodiesterase 8B,empty,empty,active,6.0,CHEMBL106,O95263,PDE8B
+463,CHEMBL1907591,Homo sapiens,Neuronal acetylcholine receptor; alpha4/beta4,active,active,active,5.0,CHEMBL106,P30926,CHRNB4
+464,CHEMBL2163176,Homo sapiens,Lysine-specific demethylase 5C,empty,empty,active,6.0,CHEMBL106,P41229,KDM5C
+465,CHEMBL3922,Homo sapiens,Methionine aminopeptidase 2,empty,active,active,6.0,CHEMBL106,P50579,METAP2
+466,CHEMBL5163,Homo sapiens,Sodium channel protein type III alpha subunit,active,active,active,5.0,CHEMBL106,Q9NY46,SCN3A
+467,CHEMBL5366,Homo sapiens,Poly [ADP-ribose] polymerase 2,empty,active,active,6.0,CHEMBL106,Q9UGN5,PARP2
+468,CHEMBL1899,Homo sapiens,Serotonin 3a (5-HT3a) receptor,active,active,active,5.0,CHEMBL106,P46098,HTR3A
+469,CHEMBL3807,Homo sapiens,T-cell protein-tyrosine phosphatase,active,active,active,6.0,CHEMBL106,P17706,PTPN2
+470,CHEMBL2157850,Homo sapiens,Ubiquitin carboxyl-terminal hydrolase 7,empty,empty,active,6.0,CHEMBL1503,Q93009,USP7
+471,CHEMBL5896,Homo sapiens,Lysine-specific demethylase 4A,empty,empty,active,6.0,CHEMBL1503,O75164,KDM4A
+472,CHEMBL1825,Homo sapiens,TNF-alpha,empty,active,active,6.0,CHEMBL1503,P01375,TNF
+473,CHEMBL1907591,Homo sapiens,Neuronal acetylcholine receptor; alpha4/beta4,active,active,active,5.0,CHEMBL1503,P30926,CHRNB4
+474,CHEMBL3060,Homo sapiens,Glycine transporter 2,empty,empty,active,6.0,CHEMBL1503,Q9Y345,SLC6A5
+475,CHEMBL3880,Homo sapiens,Heat shock protein HSP 90-alpha,empty,empty,active,6.0,CHEMBL1503,P07900,HSP90AA1
+476,CHEMBL1741208,Homo sapiens,"NACHT, LRR and PYD domains-containing protein 3",empty,active,active,6.0,CHEMBL1503,Q96P20,NLRP3
+477,CHEMBL5979,Homo sapiens,"Alkaline phosphatase, tissue-nonspecific isozyme",active,active,active,6.0,CHEMBL1503,P05186,ALPL
+478,CHEMBL2781,Homo sapiens,Sodium/hydrogen exchanger 1,active,active,active,6.0,CHEMBL1503,P19634,SLC9A1
+479,CHEMBL3242,Homo sapiens,Carbonic anhydrase XII,active,active,active,6.0,CHEMBL1503,O43570,CA12
+480,CHEMBL2288,Homo sapiens,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,active,active,active,6.0,CHEMBL1503,Q13526,PIN1
+481,CHEMBL4979,Homo sapiens,Sodium/glucose cotransporter 1,empty,active,active,6.0,CHEMBL1503,P13866,SLC5A1
+482,CHEMBL2073,Homo sapiens,Tyrosine-protein kinase YES,active,active,active,6.5,CHEMBL1503,P07947,YES1
+483,CHEMBL3594,Homo sapiens,Carbonic anhydrase IX,active,active,active,6.0,CHEMBL1503,Q16790,CA9
+484,CHEMBL5880,Homo sapiens,Interleukin-2,active,active,active,6.0,CHEMBL361497,P60568,IL2
+485,CHEMBL1825,Homo sapiens,TNF-alpha,empty,active,active,6.0,CHEMBL361497,P01375,TNF
+486,CHEMBL3060,Homo sapiens,Glycine transporter 2,empty,empty,active,6.0,CHEMBL361497,Q9Y345,SLC6A5
+487,CHEMBL4685,Homo sapiens,"Indoleamine 2,3-dioxygenase",empty,empty,active,6.0,CHEMBL361497,P14902,IDO1
+488,CHEMBL3922,Homo sapiens,Methionine aminopeptidase 2,active,active,active,6.0,CHEMBL361497,P50579,METAP2
+489,CHEMBL5163,Homo sapiens,Sodium channel protein type III alpha subunit,empty,active,active,5.0,CHEMBL361497,Q9NY46,SCN3A
+490,CHEMBL3880,Homo sapiens,Heat shock protein HSP 90-alpha,empty,active,active,6.0,CHEMBL361497,P07900,HSP90AA1
+491,CHEMBL4123,Homo sapiens,Neurotensin receptor 1,active,active,active,7.0,CHEMBL361497,P30989,NTSR1
+492,CHEMBL4508,Homo sapiens,Glutaminyl-peptide cyclotransferase,empty,active,active,6.0,CHEMBL361497,Q16769,QPCT
+493,CHEMBL2781,Homo sapiens,Sodium/hydrogen exchanger 1,active,active,active,6.0,CHEMBL361497,P19634,SLC9A1
+494,CHEMBL3242,Homo sapiens,Carbonic anhydrase XII,empty,active,active,6.0,CHEMBL361497,O43570,CA12
+495,CHEMBL3632452,Homo sapiens,Mucosa-associated lymphoid tissue lymphoma translocation protein 1,empty,active,active,6.0,CHEMBL361497,Q9UDY8,MALT1
+496,CHEMBL1929,Homo sapiens,Xanthine dehydrogenase,active,active,active,6.0,CHEMBL361497,P47989,XDH
+497,CHEMBL402,Homo sapiens,HMG-CoA reductase,empty,empty,active,6.0,CHEMBL361497,P04035,HMGCR
+498,CHEMBL1907604,Homo sapiens,Glutamate NMDA receptor; GRIN1/GRIN2A,active,active,active,5.0,CHEMBL361497,Q05586,GRIN1
+499,CHEMBL3594,Homo sapiens,Carbonic anhydrase IX,active,active,active,6.0,CHEMBL361497,Q16790,CA9
+500,CHEMBL4601,Homo sapiens,Tyrosine-protein kinase BRK,active,active,active,6.5,CHEMBL361497,Q13882,PTK6
+501,CHEMBL1947,Homo sapiens,Thyroid hormone receptor beta-1,empty,empty,active,7.0,CHEMBL1741,P10828,THRB
+502,CHEMBL2157850,Homo sapiens,Ubiquitin carboxyl-terminal hydrolase 7,empty,empty,active,6.0,CHEMBL1741,Q93009,USP7
+503,CHEMBL5880,Homo sapiens,Interleukin-2,active,active,active,6.0,CHEMBL1741,P60568,IL2
+504,CHEMBL2111432,Homo sapiens,PI3-kinase p110-delta/p85-alpha,active,active,active,6.0,CHEMBL1741,P27986,PIK3R1
+505,CHEMBL2695,Homo sapiens,Focal adhesion kinase 1,active,active,active,7.5,CHEMBL1741,Q05397,PTK2
+506,CHEMBL3004,Homo sapiens,Multidrug resistance-associated protein 1,empty,empty,active,6.0,CHEMBL1741,P33527,ABCC1
+507,CHEMBL1822,Homo sapiens,Inosine-5'-monophosphate dehydrogenase 1,empty,empty,active,6.0,CHEMBL1741,P20839,IMPDH1
+508,CHEMBL1163125,Homo sapiens,Bromodomain-containing protein 4,active,active,active,6.0,CHEMBL1741,O60885,BRD4
+509,CHEMBL4191,Homo sapiens,Monoglyceride lipase,empty,active,active,6.0,CHEMBL1741,Q99685,MGLL
+510,CHEMBL4531,Homo sapiens,Galectin-3,empty,empty,active,6.0,CHEMBL1741,P17931,LGALS3
+511,CHEMBL278,Homo sapiens,Integrin alpha-4,empty,empty,active,6.5,CHEMBL1741,P13612,ITGA4
+512,CHEMBL4685,Homo sapiens,"Indoleamine 2,3-dioxygenase",empty,active,active,6.0,CHEMBL1741,P14902,IDO1
+513,CHEMBL5163,Homo sapiens,Sodium channel protein type III alpha subunit,empty,active,active,5.0,CHEMBL1741,Q9NY46,SCN3A
+514,CHEMBL3880,Homo sapiens,Heat shock protein HSP 90-alpha,active,active,active,6.0,CHEMBL1741,P07900,HSP90AA1
+515,CHEMBL4123,Homo sapiens,Neurotensin receptor 1,empty,active,active,7.0,CHEMBL1741,P30989,NTSR1
+516,CHEMBL3108639,Homo sapiens,Cat eye syndrome critical region protein 2,active,active,active,6.0,CHEMBL1741,Q9BXF3,CECR2
+517,CHEMBL2095194,Homo sapiens,Coagulation factor VII/tissue factor,empty,empty,active,6.0,CHEMBL1741,P08709,F7
+518,CHEMBL4523,Homo sapiens,Serine/threonine-protein kinase PIM2,active,active,active,7.5,CHEMBL1741,Q9P1W9,PIM2
+519,CHEMBL268,Homo sapiens,Cathepsin K,empty,active,active,6.0,CHEMBL1741,P43235,CTSK
+520,CHEMBL4508,Homo sapiens,Glutaminyl-peptide cyclotransferase,empty,active,active,6.0,CHEMBL1741,Q16769,QPCT
+521,CHEMBL2781,Homo sapiens,Sodium/hydrogen exchanger 1,active,active,active,6.0,CHEMBL1741,P19634,SLC9A1
+522,CHEMBL3242,Homo sapiens,Carbonic anhydrase XII,empty,active,active,6.0,CHEMBL1741,O43570,CA12
+523,CHEMBL3714079,Homo sapiens,G-protein coupled receptor 84,active,active,active,7.0,CHEMBL1741,Q9NQS5,GPR84
+524,CHEMBL2955,Homo sapiens,Sphingosine 1-phosphate receptor Edg-5,empty,empty,active,7.0,CHEMBL1741,O95136,S1PR2
+525,CHEMBL2002,Homo sapiens,Inosine-5'-monophosphate dehydrogenase 2,active,active,active,6.0,CHEMBL1741,P12268,IMPDH2
+526,CHEMBL3632452,Homo sapiens,Mucosa-associated lymphoid tissue lymphoma translocation protein 1,empty,active,active,6.0,CHEMBL1741,Q9UDY8,MALT1
+527,CHEMBL1075317,Homo sapiens,WD repeat-containing protein 5,active,active,active,6.0,CHEMBL1741,P61964,WDR5
+528,CHEMBL2169736,Homo sapiens,Tyrosyl-DNA phosphodiesterase 2,empty,active,active,6.0,CHEMBL1741,O95551,TDP2
+529,CHEMBL3130,Homo sapiens,PI3-kinase p110-delta subunit,active,active,active,6.0,CHEMBL1741,O00329,PIK3CD
+530,CHEMBL275,Homo sapiens,Phosphodiesterase 4B,active,active,active,6.0,CHEMBL1741,Q07343,PDE4B
+531,CHEMBL2150837,Homo sapiens,ATPase family AAA domain-containing protein 2,empty,active,active,6.0,CHEMBL1741,Q6PL18,ATAD2
+532,CHEMBL2094108,Homo sapiens,Protein farnesyltransferase,active,active,active,6.0,CHEMBL1741,P49354,FNTA
+533,CHEMBL3712907,Homo sapiens,Transmembrane domain-containing protein TMIGD3,active,active,active,6.0,CHEMBL1741,P0DMS9,TMIGD3
+534,CHEMBL4822,Homo sapiens,Beta-secretase 1,empty,empty,active,6.0,CHEMBL1741,P56817,BACE1
+535,CHEMBL3142,Homo sapiens,DNA-dependent protein kinase,empty,empty,active,7.5,CHEMBL1741,P78527,PRKDC
+536,CHEMBL2288,Homo sapiens,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,active,active,active,6.0,CHEMBL1741,Q13526,PIN1
+537,CHEMBL4398,Homo sapiens,Purinergic receptor P2Y2,empty,active,active,7.0,CHEMBL1741,P41231,P2RY2
+538,CHEMBL4979,Homo sapiens,Sodium/glucose cotransporter 1,empty,active,active,6.0,CHEMBL1741,P13866,SLC5A1
+539,CHEMBL1907604,Homo sapiens,Glutamate NMDA receptor; GRIN1/GRIN2A,empty,active,active,5.0,CHEMBL1741,Q05586,GRIN1
+540,CHEMBL4601,Homo sapiens,Tyrosine-protein kinase BRK,active,active,active,6.5,CHEMBL1741,Q13882,PTK6
+541,CHEMBL3807,Homo sapiens,T-cell protein-tyrosine phosphatase,empty,active,active,6.0,CHEMBL1741,P17706,PTPN2
+542,CHEMBL1825,Homo sapiens,TNF-alpha,empty,empty,active,6.0,CHEMBL628,P01375,TNF
+543,CHEMBL3060,Homo sapiens,Glycine transporter 2,empty,empty,active,6.0,CHEMBL628,Q9Y345,SLC6A5
+544,CHEMBL5163,Homo sapiens,Sodium channel protein type III alpha subunit,active,active,active,5.0,CHEMBL628,Q9NY46,SCN3A
+545,CHEMBL5366,Homo sapiens,Poly [ADP-ribose] polymerase 2,empty,active,active,6.0,CHEMBL628,Q9UGN5,PARP2
+546,CHEMBL1899,Homo sapiens,Serotonin 3a (5-HT3a) receptor,active,active,active,5.0,CHEMBL628,P46098,HTR3A
+547,CHEMBL3807,Homo sapiens,T-cell protein-tyrosine phosphatase,active,active,active,6.0,CHEMBL628,P17706,PTPN2
+548,CHEMBL2487,Homo sapiens,Beta amyloid A4 protein,empty,empty,active,6.0,CHEMBL1200680,P05067,APP
+549,CHEMBL335,Homo sapiens,Protein-tyrosine phosphatase 1B,empty,empty,active,6.0,CHEMBL1200680,P18031,PTPN1
+550,CHEMBL1899,Homo sapiens,Serotonin 3a (5-HT3a) receptor,active,active,active,5.0,CHEMBL1200680,P46098,HTR3A
+551,CHEMBL3912,Homo sapiens,Carbonic anhydrase XIII,empty,empty,active,6.0,CHEMBL1200680,Q8N1Q1,CA13
+552,CHEMBL3807,Homo sapiens,T-cell protein-tyrosine phosphatase,empty,active,active,6.0,CHEMBL1200680,P17706,PTPN2
+553,CHEMBL2157850,Homo sapiens,Ubiquitin carboxyl-terminal hydrolase 7,empty,empty,active,6.0,CHEMBL3039597,Q93009,USP7
+554,CHEMBL4618,Homo sapiens,Leukotriene A4 hydrolase,active,active,active,6.0,CHEMBL3039597,P09960,LTA4H
+555,CHEMBL5880,Homo sapiens,Interleukin-2,active,active,active,6.0,CHEMBL3039597,P60568,IL2
+556,CHEMBL2111432,Homo sapiens,PI3-kinase p110-delta/p85-alpha,empty,active,active,6.0,CHEMBL3039597,P27986,PIK3R1
+557,CHEMBL3429,Homo sapiens,Estrogen-related receptor alpha,empty,active,active,7.0,CHEMBL3039597,P11474,ESRRA
+558,CHEMBL3004,Homo sapiens,Multidrug resistance-associated protein 1,empty,empty,active,6.0,CHEMBL3039597,P33527,ABCC1
+559,CHEMBL4608,Homo sapiens,Melanocortin receptor 5,empty,active,active,7.0,CHEMBL3039597,P33032,MC5R
+560,CHEMBL4531,Homo sapiens,Galectin-3,empty,empty,active,6.0,CHEMBL3039597,P17931,LGALS3
+561,CHEMBL3510,Homo sapiens,Carbonic anhydrase XIV,empty,empty,active,6.0,CHEMBL3039597,Q9ULX7,CA14
+562,CHEMBL4685,Homo sapiens,"Indoleamine 2,3-dioxygenase",active,active,active,6.0,CHEMBL3039597,P14902,IDO1
+563,CHEMBL4644,Homo sapiens,Melanocortin receptor 3,empty,empty,active,7.0,CHEMBL3039597,P41968,MC3R
+564,CHEMBL5163,Homo sapiens,Sodium channel protein type III alpha subunit,active,active,active,5.0,CHEMBL3039597,Q9NY46,SCN3A
+565,CHEMBL4123,Homo sapiens,Neurotensin receptor 1,active,active,active,7.0,CHEMBL3039597,P30989,NTSR1
+566,CHEMBL284,Homo sapiens,Dipeptidyl peptidase IV,active,active,active,6.0,CHEMBL3039597,P27487,DPP4
+567,CHEMBL3108639,Homo sapiens,Cat eye syndrome critical region protein 2,active,active,active,6.0,CHEMBL3039597,Q9BXF3,CECR2
+568,CHEMBL2095194,Homo sapiens,Coagulation factor VII/tissue factor,empty,empty,active,6.0,CHEMBL3039597,P08709,F7
+569,CHEMBL4523,Homo sapiens,Serine/threonine-protein kinase PIM2,empty,active,active,7.5,CHEMBL3039597,Q9P1W9,PIM2
+570,CHEMBL1795139,Homo sapiens,Transmembrane protease serine 6,empty,active,active,6.0,CHEMBL3039597,Q8IU80,TMPRSS6
+571,CHEMBL4508,Homo sapiens,Glutaminyl-peptide cyclotransferase,active,active,active,6.0,CHEMBL3039597,Q16769,QPCT
+572,CHEMBL2781,Homo sapiens,Sodium/hydrogen exchanger 1,active,active,active,6.0,CHEMBL3039597,P19634,SLC9A1
+573,CHEMBL3242,Homo sapiens,Carbonic anhydrase XII,empty,empty,active,6.0,CHEMBL3039597,O43570,CA12
+574,CHEMBL3714079,Homo sapiens,G-protein coupled receptor 84,active,active,active,7.0,CHEMBL3039597,Q9NQS5,GPR84
+575,CHEMBL2955,Homo sapiens,Sphingosine 1-phosphate receptor Edg-5,empty,active,active,7.0,CHEMBL3039597,O95136,S1PR2
+576,CHEMBL2002,Homo sapiens,Inosine-5'-monophosphate dehydrogenase 2,empty,empty,active,6.0,CHEMBL3039597,P12268,IMPDH2
+577,CHEMBL3632452,Homo sapiens,Mucosa-associated lymphoid tissue lymphoma translocation protein 1,empty,active,active,6.0,CHEMBL3039597,Q9UDY8,MALT1
+578,CHEMBL4462,Homo sapiens,NAD-dependent deacetylase sirtuin 2,empty,active,active,6.0,CHEMBL3039597,Q8IXJ6,SIRT2
+579,CHEMBL2169736,Homo sapiens,Tyrosyl-DNA phosphodiesterase 2,empty,active,active,6.0,CHEMBL3039597,O95551,TDP2
+580,CHEMBL3286,Homo sapiens,Urokinase-type plasminogen activator,empty,active,active,6.0,CHEMBL3039597,P00749,PLAU
+581,CHEMBL3130,Homo sapiens,PI3-kinase p110-delta subunit,active,active,active,6.0,CHEMBL3039597,O00329,PIK3CD
+582,CHEMBL275,Homo sapiens,Phosphodiesterase 4B,active,active,active,6.0,CHEMBL3039597,Q07343,PDE4B
+583,CHEMBL2150837,Homo sapiens,ATPase family AAA domain-containing protein 2,active,active,active,6.0,CHEMBL3039597,Q6PL18,ATAD2
+584,CHEMBL2094108,Homo sapiens,Protein farnesyltransferase,active,active,active,6.0,CHEMBL3039597,P49354,FNTA
+585,CHEMBL4822,Homo sapiens,Beta-secretase 1,active,active,active,6.0,CHEMBL3039597,P56817,BACE1
+586,CHEMBL3023,Homo sapiens,Sphingosine kinase 2,empty,active,active,6.0,CHEMBL3039597,Q9NRA0,SPHK2
+587,CHEMBL2288,Homo sapiens,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,active,active,active,6.0,CHEMBL3039597,Q13526,PIN1
+588,CHEMBL3137262,Homo sapiens,LSD1/CoREST complex,active,active,active,6.0,CHEMBL3039597,O60341,KDM1A
+589,CHEMBL4979,Homo sapiens,Sodium/glucose cotransporter 1,empty,active,active,6.0,CHEMBL3039597,P13866,SLC5A1
+590,CHEMBL2073,Homo sapiens,Tyrosine-protein kinase YES,active,active,active,6.5,CHEMBL3039597,P07947,YES1
+591,CHEMBL4601,Homo sapiens,Tyrosine-protein kinase BRK,active,active,active,6.5,CHEMBL3039597,Q13882,PTK6
+592,CHEMBL3429,Homo sapiens,Estrogen-related receptor alpha,empty,active,active,7.0,CHEMBL1043,P11474,ESRRA
+593,CHEMBL4657,Homo sapiens,Dipeptidyl peptidase VIII,empty,empty,active,6.0,CHEMBL1043,Q6V1X1,DPP8
+594,CHEMBL255,Homo sapiens,Adenosine A2b receptor,empty,empty,active,7.0,CHEMBL1043,P29275,ADORA2B
+595,CHEMBL1899,Homo sapiens,Serotonin 3a (5-HT3a) receptor,active,active,active,5.0,CHEMBL1043,P46098,HTR3A
+596,CHEMBL3912,Homo sapiens,Carbonic anhydrase XIII,active,active,active,6.0,CHEMBL1043,Q8N1Q1,CA13
+597,CHEMBL5880,Homo sapiens,Interleukin-2,empty,active,active,6.0,CHEMBL125,P60568,IL2
+598,CHEMBL1825,Homo sapiens,TNF-alpha,empty,empty,active,6.0,CHEMBL125,P01375,TNF
+599,CHEMBL2189121,Homo sapiens,GTPase KRas,empty,empty,active,6.0,CHEMBL125,P01116,KRAS
+600,CHEMBL1835,Homo sapiens,Thromboxane-A synthase,empty,active,active,6.0,CHEMBL125,P24557,TBXAS1
+601,CHEMBL1907591,Homo sapiens,Neuronal acetylcholine receptor; alpha4/beta4,active,active,active,5.0,CHEMBL125,P30926,CHRNB4
+602,CHEMBL2424,Homo sapiens,Glyoxalase I,empty,empty,active,6.0,CHEMBL125,Q04760,GLO1
+603,CHEMBL3060,Homo sapiens,Glycine transporter 2,empty,empty,active,6.0,CHEMBL125,Q9Y345,SLC6A5
+604,CHEMBL6136,Homo sapiens,Lysine-specific histone demethylase 1,empty,empty,active,6.0,CHEMBL125,O60341,KDM1A
+605,CHEMBL2288,Homo sapiens,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,active,active,active,6.0,CHEMBL125,Q13526,PIN1
+606,CHEMBL2104,Homo sapiens,P2X purinoceptor 4,active,active,active,5.0,CHEMBL125,Q99571,P2RX4
+607,CHEMBL1977,Homo sapiens,Vitamin D receptor,empty,active,active,7.0,CHEMBL125,P11473,VDR
+608,CHEMBL5163,Homo sapiens,Sodium channel protein type III alpha subunit,empty,active,active,5.0,CHEMBL684,Q9NY46,SCN3A
+609,CHEMBL3242,Homo sapiens,Carbonic anhydrase XII,empty,empty,active,6.0,CHEMBL684,O43570,CA12
+610,CHEMBL1899,Homo sapiens,Serotonin 3a (5-HT3a) receptor,active,active,active,5.0,CHEMBL684,P46098,HTR3A
+611,CHEMBL3807,Homo sapiens,T-cell protein-tyrosine phosphatase,active,active,active,6.0,CHEMBL684,P17706,PTPN2
+612,CHEMBL5880,Homo sapiens,Interleukin-2,empty,active,active,6.0,CHEMBL1483,P60568,IL2
+613,CHEMBL1825,Homo sapiens,TNF-alpha,active,active,active,6.0,CHEMBL1483,P01375,TNF
+614,CHEMBL3776,Homo sapiens,Caspase-8,empty,empty,active,6.0,CHEMBL1483,Q14790,CASP8
+615,CHEMBL4973,Homo sapiens,Excitatory amino acid transporter 2,active,active,active,6.0,CHEMBL1483,P43004,SLC1A2
+616,CHEMBL1899,Homo sapiens,Serotonin 3a (5-HT3a) receptor,active,active,active,5.0,CHEMBL1483,P46098,HTR3A
+617,CHEMBL2288,Homo sapiens,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,active,active,active,6.0,CHEMBL1483,Q13526,PIN1
+618,CHEMBL1899,Homo sapiens,Serotonin 3a (5-HT3a) receptor,active,active,active,5.0,CHEMBL1200689,P46098,HTR3A
+619,CHEMBL3807,Homo sapiens,T-cell protein-tyrosine phosphatase,empty,active,active,6.0,CHEMBL1200689,P17706,PTPN2
+620,CHEMBL3922,Homo sapiens,Methionine aminopeptidase 2,empty,active,active,6.0,CHEMBL1235551,P50579,METAP2
+621,CHEMBL2781,Homo sapiens,Sodium/hydrogen exchanger 1,active,active,active,6.0,CHEMBL1235551,P19634,SLC9A1
+622,CHEMBL1899,Homo sapiens,Serotonin 3a (5-HT3a) receptor,empty,active,active,5.0,CHEMBL1235551,P46098,HTR3A
+623,CHEMBL3712907,Homo sapiens,Transmembrane domain-containing protein TMIGD3,empty,empty,active,6.0,CHEMBL1235551,P0DMS9,TMIGD3
+624,CHEMBL2288,Homo sapiens,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,empty,active,active,6.0,CHEMBL1235551,Q13526,PIN1
+625,CHEMBL1907604,Homo sapiens,Glutamate NMDA receptor; GRIN1/GRIN2A,empty,active,active,5.0,CHEMBL1235551,Q05586,GRIN1
+626,CHEMBL3594,Homo sapiens,Carbonic anhydrase IX,active,active,active,6.0,CHEMBL1235551,Q16790,CA9
+627,CHEMBL3807,Homo sapiens,T-cell protein-tyrosine phosphatase,active,active,active,6.0,CHEMBL1235551,P17706,PTPN2
+628,CHEMBL1899,Homo sapiens,Serotonin 3a (5-HT3a) receptor,active,active,active,5.0,CHEMBL15797,P46098,HTR3A
+629,CHEMBL3807,Homo sapiens,T-cell protein-tyrosine phosphatase,empty,active,active,6.0,CHEMBL15797,P17706,PTPN2
+630,CHEMBL5880,Homo sapiens,Interleukin-2,active,active,active,6.0,CHEMBL1292,P60568,IL2
+631,CHEMBL4625,Homo sapiens,Apoptosis regulator Bcl-X,empty,active,active,5.0,CHEMBL1292,Q07817,BCL2L1
+632,CHEMBL1825,Homo sapiens,TNF-alpha,empty,empty,active,6.0,CHEMBL1292,P01375,TNF
+633,CHEMBL2189121,Homo sapiens,GTPase KRas,empty,empty,active,6.0,CHEMBL1292,P01116,KRAS
+634,CHEMBL4794,Homo sapiens,Vanilloid receptor,empty,empty,active,5.0,CHEMBL1292,Q8NER1,TRPV1
+635,CHEMBL1163125,Homo sapiens,Bromodomain-containing protein 4,empty,active,active,6.0,CHEMBL1292,O60885,BRD4
+636,CHEMBL1850,Homo sapiens,Dopamine D5 receptor,empty,active,active,7.0,CHEMBL1292,P21918,DRD5
+637,CHEMBL278,Homo sapiens,Integrin alpha-4,empty,empty,active,6.5,CHEMBL1292,P13612,ITGA4
+638,CHEMBL4478,Homo sapiens,Voltage-gated N-type calcium channel alpha-1B subunit,empty,empty,active,5.0,CHEMBL1292,Q00975,CACNA1B
+639,CHEMBL4644,Homo sapiens,Melanocortin receptor 3,empty,active,active,7.0,CHEMBL1292,P41968,MC3R
+640,CHEMBL5163,Homo sapiens,Sodium channel protein type III alpha subunit,empty,active,active,5.0,CHEMBL1292,Q9NY46,SCN3A
+641,CHEMBL1741208,Homo sapiens,"NACHT, LRR and PYD domains-containing protein 3",empty,empty,active,6.0,CHEMBL1292,Q96P20,NLRP3
+642,CHEMBL3242,Homo sapiens,Carbonic anhydrase XII,empty,empty,active,6.0,CHEMBL1292,O43570,CA12
+643,CHEMBL2955,Homo sapiens,Sphingosine 1-phosphate receptor Edg-5,empty,empty,active,7.0,CHEMBL1292,O95136,S1PR2
+644,CHEMBL1075317,Homo sapiens,WD repeat-containing protein 5,active,active,active,6.0,CHEMBL1292,P61964,WDR5
+645,CHEMBL1889,Homo sapiens,Vasopressin V1a receptor,empty,empty,active,7.0,CHEMBL1292,P37288,AVPR1A
+646,CHEMBL1914,Homo sapiens,Butyrylcholinesterase,empty,active,active,6.0,CHEMBL1292,P06276,BCHE
+647,CHEMBL3130,Homo sapiens,PI3-kinase p110-delta subunit,empty,empty,active,6.0,CHEMBL1292,O00329,PIK3CD
+648,CHEMBL5568,Homo sapiens,Proto-oncogene tyrosine-protein kinase ROS,empty,empty,active,7.5,CHEMBL1292,P08922,ROS1
+649,CHEMBL3712907,Homo sapiens,Transmembrane domain-containing protein TMIGD3,empty,active,active,6.0,CHEMBL1292,P0DMS9,TMIGD3
+650,CHEMBL3142,Homo sapiens,DNA-dependent protein kinase,empty,empty,active,7.5,CHEMBL1292,P78527,PRKDC
+651,CHEMBL5137,Homo sapiens,Metabotropic glutamate receptor 2,empty,active,active,7.0,CHEMBL1292,Q14416,GRM2
+652,CHEMBL2288,Homo sapiens,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,active,active,active,6.0,CHEMBL1292,Q13526,PIN1
+653,CHEMBL238,Homo sapiens,Dopamine transporter,empty,empty,active,6.0,CHEMBL1292,Q01959,SLC6A3
+654,CHEMBL1907604,Homo sapiens,Glutamate NMDA receptor; GRIN1/GRIN2A,empty,active,active,5.0,CHEMBL1292,Q05586,GRIN1
+655,CHEMBL3060,Homo sapiens,Glycine transporter 2,empty,active,active,6.0,CHEMBL830,Q9Y345,SLC6A5
+656,CHEMBL3922,Homo sapiens,Methionine aminopeptidase 2,empty,active,active,6.0,CHEMBL830,P50579,METAP2
+657,CHEMBL1899,Homo sapiens,Serotonin 3a (5-HT3a) receptor,active,active,active,5.0,CHEMBL830,P46098,HTR3A
+658,CHEMBL3807,Homo sapiens,T-cell protein-tyrosine phosphatase,empty,active,active,6.0,CHEMBL830,P17706,PTPN2
+659,CHEMBL1947,Homo sapiens,Thyroid hormone receptor beta-1,empty,empty,active,7.0,CHEMBL2104415,P10828,THRB
+660,CHEMBL2157850,Homo sapiens,Ubiquitin carboxyl-terminal hydrolase 7,empty,empty,active,6.0,CHEMBL2104415,Q93009,USP7
+661,CHEMBL5880,Homo sapiens,Interleukin-2,active,active,active,6.0,CHEMBL2104415,P60568,IL2
+662,CHEMBL2487,Homo sapiens,Beta amyloid A4 protein,empty,empty,active,6.0,CHEMBL2104415,P05067,APP
+663,CHEMBL2189121,Homo sapiens,GTPase KRas,empty,empty,active,6.0,CHEMBL2104415,P01116,KRAS
+664,CHEMBL3788,Homo sapiens,Serine/threonine-protein kinase PLK4,empty,empty,active,7.5,CHEMBL2104415,O00444,PLK4
+665,CHEMBL4794,Homo sapiens,Vanilloid receptor,empty,empty,active,5.0,CHEMBL2104415,Q8NER1,TRPV1
+666,CHEMBL3012,Homo sapiens,Phosphodiesterase 7A,empty,active,active,6.0,CHEMBL2104415,Q13946,PDE7A
+667,CHEMBL4608,Homo sapiens,Melanocortin receptor 5,empty,empty,active,7.0,CHEMBL2104415,P33032,MC5R
+668,CHEMBL4191,Homo sapiens,Monoglyceride lipase,empty,empty,active,6.0,CHEMBL2104415,Q99685,MGLL
+669,CHEMBL4531,Homo sapiens,Galectin-3,empty,empty,active,6.0,CHEMBL2104415,P17931,LGALS3
+670,CHEMBL2163176,Homo sapiens,Lysine-specific demethylase 5C,empty,empty,active,6.0,CHEMBL2104415,P41229,KDM5C
+671,CHEMBL4685,Homo sapiens,"Indoleamine 2,3-dioxygenase",empty,active,active,6.0,CHEMBL2104415,P14902,IDO1
+672,CHEMBL4478,Homo sapiens,Voltage-gated N-type calcium channel alpha-1B subunit,empty,empty,active,5.0,CHEMBL2104415,Q00975,CACNA1B
+673,CHEMBL4718,Homo sapiens,MAP kinase-interacting serine/threonine-protein kinase MNK1,empty,empty,active,7.5,CHEMBL2104415,Q9BUB5,MKNK1
+674,CHEMBL5163,Homo sapiens,Sodium channel protein type III alpha subunit,empty,empty,active,5.0,CHEMBL2104415,Q9NY46,SCN3A
+675,CHEMBL3880,Homo sapiens,Heat shock protein HSP 90-alpha,empty,active,active,6.0,CHEMBL2104415,P07900,HSP90AA1
+676,CHEMBL280,Homo sapiens,Matrix metalloproteinase 13,empty,active,active,6.0,CHEMBL2104415,P45452,MMP13
+677,CHEMBL1741208,Homo sapiens,"NACHT, LRR and PYD domains-containing protein 3",empty,active,active,6.0,CHEMBL2104415,Q96P20,NLRP3
+678,CHEMBL268,Homo sapiens,Cathepsin K,active,active,active,6.0,CHEMBL2104415,P43235,CTSK
+679,CHEMBL2781,Homo sapiens,Sodium/hydrogen exchanger 1,active,active,active,6.0,CHEMBL2104415,P19634,SLC9A1
+680,CHEMBL3242,Homo sapiens,Carbonic anhydrase XII,active,active,active,6.0,CHEMBL2104415,O43570,CA12
+681,CHEMBL2955,Homo sapiens,Sphingosine 1-phosphate receptor Edg-5,empty,active,active,7.0,CHEMBL2104415,O95136,S1PR2
+682,CHEMBL2002,Homo sapiens,Inosine-5'-monophosphate dehydrogenase 2,active,active,active,6.0,CHEMBL2104415,P12268,IMPDH2
+683,CHEMBL299,Homo sapiens,Protein kinase C alpha,empty,active,active,7.5,CHEMBL2104415,P17252,PRKCA
+684,CHEMBL1075317,Homo sapiens,WD repeat-containing protein 5,active,active,active,6.0,CHEMBL2104415,P61964,WDR5
+685,CHEMBL3130,Homo sapiens,PI3-kinase p110-delta subunit,active,active,active,6.0,CHEMBL2104415,O00329,PIK3CD
+686,CHEMBL5568,Homo sapiens,Proto-oncogene tyrosine-protein kinase ROS,empty,empty,active,7.5,CHEMBL2104415,P08922,ROS1
+687,CHEMBL2150837,Homo sapiens,ATPase family AAA domain-containing protein 2,empty,active,active,6.0,CHEMBL2104415,Q6PL18,ATAD2
+688,CHEMBL3712907,Homo sapiens,Transmembrane domain-containing protein TMIGD3,active,active,active,6.0,CHEMBL2104415,P0DMS9,TMIGD3
+689,CHEMBL4822,Homo sapiens,Beta-secretase 1,active,active,active,6.0,CHEMBL2104415,P56817,BACE1
+690,CHEMBL3142,Homo sapiens,DNA-dependent protein kinase,empty,empty,active,7.5,CHEMBL2104415,P78527,PRKDC
+691,CHEMBL2288,Homo sapiens,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,active,active,active,6.0,CHEMBL2104415,Q13526,PIN1
+692,CHEMBL2069156,Homo sapiens,Kelch-like ECH-associated protein 1,active,active,active,6.0,CHEMBL2104415,Q14145,KEAP1
+693,CHEMBL4940,Homo sapiens,L-lactate dehydrogenase B chain,empty,active,active,6.0,CHEMBL2104415,P07195,LDHB
+694,CHEMBL3137262,Homo sapiens,LSD1/CoREST complex,active,active,active,6.0,CHEMBL2104415,O60341,KDM1A
+695,CHEMBL4398,Homo sapiens,Purinergic receptor P2Y2,empty,active,active,7.0,CHEMBL2104415,P41231,P2RY2
+696,CHEMBL3060,Homo sapiens,Glycine transporter 2,empty,empty,active,6.0,CHEMBL1431,Q9Y345,SLC6A5
+697,CHEMBL1899,Homo sapiens,Serotonin 3a (5-HT3a) receptor,active,active,active,5.0,CHEMBL1431,P46098,HTR3A
+698,CHEMBL3807,Homo sapiens,T-cell protein-tyrosine phosphatase,empty,active,active,6.0,CHEMBL1431,P17706,PTPN2
+699,CHEMBL5880,Homo sapiens,Interleukin-2,active,active,active,6.0,CHEMBL1200699,P60568,IL2
+700,CHEMBL3004,Homo sapiens,Multidrug resistance-associated protein 1,empty,empty,active,6.0,CHEMBL1200699,P33527,ABCC1
+701,CHEMBL3510,Homo sapiens,Carbonic anhydrase XIV,active,active,active,6.0,CHEMBL1200699,Q9ULX7,CA14
+702,CHEMBL4685,Homo sapiens,"Indoleamine 2,3-dioxygenase",empty,empty,active,6.0,CHEMBL1200699,P14902,IDO1
+703,CHEMBL5163,Homo sapiens,Sodium channel protein type III alpha subunit,empty,active,active,5.0,CHEMBL1200699,Q9NY46,SCN3A
+704,CHEMBL5366,Homo sapiens,Poly [ADP-ribose] polymerase 2,empty,empty,active,6.0,CHEMBL1200699,Q9UGN5,PARP2
+705,CHEMBL4508,Homo sapiens,Glutaminyl-peptide cyclotransferase,active,active,active,6.0,CHEMBL1200699,Q16769,QPCT
+706,CHEMBL2781,Homo sapiens,Sodium/hydrogen exchanger 1,empty,active,active,6.0,CHEMBL1200699,P19634,SLC9A1
+707,CHEMBL3242,Homo sapiens,Carbonic anhydrase XII,active,active,active,6.0,CHEMBL1200699,O43570,CA12
+708,CHEMBL3130,Homo sapiens,PI3-kinase p110-delta subunit,active,active,active,6.0,CHEMBL1200699,O00329,PIK3CD
+709,CHEMBL5137,Homo sapiens,Metabotropic glutamate receptor 2,empty,active,active,7.0,CHEMBL1200699,Q14416,GRM2
+710,CHEMBL4940,Homo sapiens,L-lactate dehydrogenase B chain,empty,active,active,6.0,CHEMBL1200699,P07195,LDHB
+711,CHEMBL3137262,Homo sapiens,LSD1/CoREST complex,active,active,active,6.0,CHEMBL1200699,O60341,KDM1A
+712,CHEMBL4979,Homo sapiens,Sodium/glucose cotransporter 1,empty,active,active,6.0,CHEMBL1200699,P13866,SLC5A1
+713,CHEMBL1907604,Homo sapiens,Glutamate NMDA receptor; GRIN1/GRIN2A,empty,empty,active,5.0,CHEMBL1200699,Q05586,GRIN1
+714,CHEMBL3807,Homo sapiens,T-cell protein-tyrosine phosphatase,active,active,active,6.0,CHEMBL1200699,P17706,PTPN2
+715,CHEMBL5880,Homo sapiens,Interleukin-2,active,active,active,6.0,CHEMBL20,P60568,IL2
+716,CHEMBL3969,Homo sapiens,Carbonic anhydrase VB,empty,active,active,6.0,CHEMBL20,Q9Y2D0,CA5B
+717,CHEMBL3060,Homo sapiens,Glycine transporter 2,empty,empty,active,6.0,CHEMBL20,Q9Y345,SLC6A5
+718,CHEMBL5163,Homo sapiens,Sodium channel protein type III alpha subunit,empty,active,active,5.0,CHEMBL20,Q9NY46,SCN3A
+719,CHEMBL5366,Homo sapiens,Poly [ADP-ribose] polymerase 2,empty,active,active,6.0,CHEMBL20,Q9UGN5,PARP2
+720,CHEMBL3242,Homo sapiens,Carbonic anhydrase XII,active,active,active,6.0,CHEMBL20,O43570,CA12
+721,CHEMBL1899,Homo sapiens,Serotonin 3a (5-HT3a) receptor,active,active,active,5.0,CHEMBL20,P46098,HTR3A
+722,CHEMBL3912,Homo sapiens,Carbonic anhydrase XIII,empty,active,active,6.0,CHEMBL20,Q8N1Q1,CA13
+723,CHEMBL205,Homo sapiens,Carbonic anhydrase II,active,active,active,6.0,CHEMBL20,P00918,CA2
+724,CHEMBL4979,Homo sapiens,Sodium/glucose cotransporter 1,active,active,active,6.0,CHEMBL20,P13866,SLC5A1
+725,CHEMBL3594,Homo sapiens,Carbonic anhydrase IX,active,active,active,6.0,CHEMBL20,Q16790,CA9
+726,CHEMBL1947,Homo sapiens,Thyroid hormone receptor beta-1,empty,active,active,7.0,CHEMBL64391,P10828,THRB
+727,CHEMBL2157850,Homo sapiens,Ubiquitin carboxyl-terminal hydrolase 7,empty,empty,active,6.0,CHEMBL64391,Q93009,USP7
+728,CHEMBL5880,Homo sapiens,Interleukin-2,active,active,active,6.0,CHEMBL64391,P60568,IL2
+729,CHEMBL3798,Homo sapiens,Calcitonin gene-related peptide type 1 receptor,empty,active,active,7.0,CHEMBL64391,Q16602,CALCRL
+730,CHEMBL2189121,Homo sapiens,GTPase KRas,empty,active,active,6.0,CHEMBL64391,P01116,KRAS
+731,CHEMBL4408,Homo sapiens,Phosphodiesterase 8B,empty,empty,active,6.0,CHEMBL64391,O95263,PDE8B
+732,CHEMBL1835,Homo sapiens,Thromboxane-A synthase,empty,empty,active,6.0,CHEMBL64391,P24557,TBXAS1
+733,CHEMBL3788,Homo sapiens,Serine/threonine-protein kinase PLK4,empty,empty,active,7.5,CHEMBL64391,O00444,PLK4
+734,CHEMBL3004,Homo sapiens,Multidrug resistance-associated protein 1,empty,empty,active,6.0,CHEMBL64391,P33527,ABCC1
+735,CHEMBL1822,Homo sapiens,Inosine-5'-monophosphate dehydrogenase 1,empty,active,active,6.0,CHEMBL64391,P20839,IMPDH1
+736,CHEMBL1163125,Homo sapiens,Bromodomain-containing protein 4,active,active,active,6.0,CHEMBL64391,O60885,BRD4
+737,CHEMBL286,Homo sapiens,Renin,active,active,active,6.0,CHEMBL64391,P00797,REN
+738,CHEMBL4860,Homo sapiens,Apoptosis regulator Bcl-2,empty,active,active,5.0,CHEMBL64391,P10415,BCL2
+739,CHEMBL2007625,Homo sapiens,Isocitrate dehydrogenase [NADP] cytoplasmic,empty,active,active,6.0,CHEMBL64391,O75874,IDH1
+740,CHEMBL325,Homo sapiens,Histone deacetylase 1,active,active,active,6.0,CHEMBL64391,Q13547,HDAC1
+741,CHEMBL2424,Homo sapiens,Glyoxalase I,empty,empty,active,6.0,CHEMBL64391,Q04760,GLO1
+742,CHEMBL1628481,Homo sapiens,Apelin receptor,empty,active,active,7.0,CHEMBL64391,P35414,APLNR
+743,CHEMBL4531,Homo sapiens,Galectin-3,empty,active,active,6.0,CHEMBL64391,P17931,LGALS3
+744,CHEMBL244,Homo sapiens,Coagulation factor X,active,active,active,6.0,CHEMBL64391,P00742,F10
+745,CHEMBL4478,Homo sapiens,Voltage-gated N-type calcium channel alpha-1B subunit,empty,empty,active,5.0,CHEMBL64391,Q00975,CACNA1B
+746,CHEMBL1293197,Homo sapiens,Acidic mammalian chitinase,active,active,active,6.0,CHEMBL64391,Q9BZP6,CHIA
+747,CHEMBL1795117,Homo sapiens,"Histone-lysine N-methyltransferase, H3 lysine-79 specific",empty,active,active,6.0,CHEMBL64391,Q8TEK3,DOT1L
+748,CHEMBL5163,Homo sapiens,Sodium channel protein type III alpha subunit,active,active,active,5.0,CHEMBL64391,Q9NY46,SCN3A
+749,CHEMBL284,Homo sapiens,Dipeptidyl peptidase IV,empty,active,active,6.0,CHEMBL64391,P27487,DPP4
+750,CHEMBL1741208,Homo sapiens,"NACHT, LRR and PYD domains-containing protein 3",empty,empty,active,6.0,CHEMBL64391,Q96P20,NLRP3
+751,CHEMBL5979,Homo sapiens,"Alkaline phosphatase, tissue-nonspecific isozyme",active,active,active,6.0,CHEMBL64391,P05186,ALPL
+752,CHEMBL4508,Homo sapiens,Glutaminyl-peptide cyclotransferase,empty,empty,active,6.0,CHEMBL64391,Q16769,QPCT
+753,CHEMBL2781,Homo sapiens,Sodium/hydrogen exchanger 1,active,active,active,6.0,CHEMBL64391,P19634,SLC9A1
+754,CHEMBL2955,Homo sapiens,Sphingosine 1-phosphate receptor Edg-5,empty,active,active,7.0,CHEMBL64391,O95136,S1PR2
+755,CHEMBL1906,Homo sapiens,Serine/threonine-protein kinase RAF,empty,active,active,7.5,CHEMBL64391,P04049,RAF1
+756,CHEMBL3632452,Homo sapiens,Mucosa-associated lymphoid tissue lymphoma translocation protein 1,active,active,active,6.0,CHEMBL64391,Q9UDY8,MALT1
+757,CHEMBL1075317,Homo sapiens,WD repeat-containing protein 5,empty,active,active,6.0,CHEMBL64391,P61964,WDR5
+758,CHEMBL275,Homo sapiens,Phosphodiesterase 4B,empty,active,active,6.0,CHEMBL64391,Q07343,PDE4B
+759,CHEMBL1875,Homo sapiens,Serotonin 4 (5-HT4) receptor,empty,active,active,7.0,CHEMBL64391,Q13639,HTR4
+760,CHEMBL5568,Homo sapiens,Proto-oncogene tyrosine-protein kinase ROS,empty,empty,active,7.5,CHEMBL64391,P08922,ROS1
+761,CHEMBL3864,Homo sapiens,Protein-tyrosine phosphatase 2C,empty,empty,active,6.0,CHEMBL64391,Q06124,PTPN11
+762,CHEMBL1929,Homo sapiens,Xanthine dehydrogenase,active,active,active,6.0,CHEMBL64391,P47989,XDH
+763,CHEMBL1907603,Homo sapiens,Glutamate NMDA receptor; GRIN1/GRIN2B,empty,empty,active,5.0,CHEMBL64391,Q05586,GRIN1
+764,CHEMBL3142,Homo sapiens,DNA-dependent protein kinase,empty,active,active,7.5,CHEMBL64391,P78527,PRKDC
+765,CHEMBL4835,Homo sapiens,L-lactate dehydrogenase A chain,active,active,active,6.0,CHEMBL64391,P00338,LDHA
+766,CHEMBL2069156,Homo sapiens,Kelch-like ECH-associated protein 1,active,active,active,6.0,CHEMBL64391,Q14145,KEAP1
+767,CHEMBL3137262,Homo sapiens,LSD1/CoREST complex,active,active,active,6.0,CHEMBL64391,O60341,KDM1A
+768,CHEMBL2073,Homo sapiens,Tyrosine-protein kinase YES,active,active,active,6.5,CHEMBL64391,P07947,YES1
+769,CHEMBL3430892,Homo sapiens,Integrin alpha-V/beta-8,active,active,active,6.5,CHEMBL64391,P06756,ITGAV
+770,CHEMBL1293267,Homo sapiens,G-protein coupled receptor 35,active,active,active,7.0,CHEMBL64391,Q9HC97,GPR35
+771,CHEMBL3797,Homo sapiens,Serine-protein kinase ATM,empty,active,active,7.5,CHEMBL64391,Q13315,ATM
+772,CHEMBL2157850,Homo sapiens,Ubiquitin carboxyl-terminal hydrolase 7,empty,active,active,6.0,CHEMBL1200633,Q93009,USP7
+773,CHEMBL5880,Homo sapiens,Interleukin-2,active,active,active,6.0,CHEMBL1200633,P60568,IL2
+774,CHEMBL4625,Homo sapiens,Apoptosis regulator Bcl-X,active,active,active,5.0,CHEMBL1200633,Q07817,BCL2L1
+775,CHEMBL3798,Homo sapiens,Calcitonin gene-related peptide type 1 receptor,empty,active,active,7.0,CHEMBL1200633,Q16602,CALCRL
+776,CHEMBL2189121,Homo sapiens,GTPase KRas,empty,empty,active,6.0,CHEMBL1200633,P01116,KRAS
+777,CHEMBL2695,Homo sapiens,Focal adhesion kinase 1,active,active,active,7.5,CHEMBL1200633,Q05397,PTK2
+778,CHEMBL3004,Homo sapiens,Multidrug resistance-associated protein 1,empty,empty,active,6.0,CHEMBL1200633,P33527,ABCC1
+779,CHEMBL1798,Homo sapiens,Cysteinyl leukotriene receptor 1,empty,empty,active,7.0,CHEMBL1200633,Q9Y271,CYSLTR1
+780,CHEMBL3991,Homo sapiens,Coagulation factor VII,empty,empty,active,6.0,CHEMBL1200633,P08709,F7
+781,CHEMBL1163125,Homo sapiens,Bromodomain-containing protein 4,empty,active,active,6.0,CHEMBL1200633,O60885,BRD4
+782,CHEMBL4608,Homo sapiens,Melanocortin receptor 5,active,active,active,7.0,CHEMBL1200633,P33032,MC5R
+783,CHEMBL4860,Homo sapiens,Apoptosis regulator Bcl-2,empty,active,active,5.0,CHEMBL1200633,P10415,BCL2
+784,CHEMBL3060,Homo sapiens,Glycine transporter 2,empty,empty,active,6.0,CHEMBL1200633,Q9Y345,SLC6A5
+785,CHEMBL4531,Homo sapiens,Galectin-3,empty,empty,active,6.0,CHEMBL1200633,P17931,LGALS3
+786,CHEMBL4685,Homo sapiens,"Indoleamine 2,3-dioxygenase",active,active,active,6.0,CHEMBL1200633,P14902,IDO1
+787,CHEMBL4478,Homo sapiens,Voltage-gated N-type calcium channel alpha-1B subunit,active,active,active,5.0,CHEMBL1200633,Q00975,CACNA1B
+788,CHEMBL3991501,Homo sapiens,"Isocitrate dehydrogenase [NADP], mitochondrial",active,active,active,6.0,CHEMBL1200633,P48735,IDH2
+789,CHEMBL4644,Homo sapiens,Melanocortin receptor 3,active,active,active,7.0,CHEMBL1200633,P41968,MC3R
+790,CHEMBL4718,Homo sapiens,MAP kinase-interacting serine/threonine-protein kinase MNK1,empty,empty,active,7.5,CHEMBL1200633,Q9BUB5,MKNK1
+791,CHEMBL5163,Homo sapiens,Sodium channel protein type III alpha subunit,active,active,active,5.0,CHEMBL1200633,Q9NY46,SCN3A
+792,CHEMBL2208,Homo sapiens,MAP kinase-activated protein kinase 2,empty,active,active,7.5,CHEMBL1200633,P49137,MAPKAPK2
+793,CHEMBL3880,Homo sapiens,Heat shock protein HSP 90-alpha,active,active,active,6.0,CHEMBL1200633,P07900,HSP90AA1
+794,CHEMBL4123,Homo sapiens,Neurotensin receptor 1,active,active,active,7.0,CHEMBL1200633,P30989,NTSR1
+795,CHEMBL3108639,Homo sapiens,Cat eye syndrome critical region protein 2,active,active,active,6.0,CHEMBL1200633,Q9BXF3,CECR2
+796,CHEMBL2095194,Homo sapiens,Coagulation factor VII/tissue factor,empty,empty,active,6.0,CHEMBL1200633,P08709,F7
+797,CHEMBL1741208,Homo sapiens,"NACHT, LRR and PYD domains-containing protein 3",empty,active,active,6.0,CHEMBL1200633,Q96P20,NLRP3
+798,CHEMBL268,Homo sapiens,Cathepsin K,active,active,active,6.0,CHEMBL1200633,P43235,CTSK
+799,CHEMBL1795139,Homo sapiens,Transmembrane protease serine 6,active,active,active,6.0,CHEMBL1200633,Q8IU80,TMPRSS6
+800,CHEMBL4508,Homo sapiens,Glutaminyl-peptide cyclotransferase,active,active,active,6.0,CHEMBL1200633,Q16769,QPCT
+801,CHEMBL335,Homo sapiens,Protein-tyrosine phosphatase 1B,active,active,active,6.0,CHEMBL1200633,P18031,PTPN1
+802,CHEMBL2781,Homo sapiens,Sodium/hydrogen exchanger 1,active,active,active,6.0,CHEMBL1200633,P19634,SLC9A1
+803,CHEMBL3242,Homo sapiens,Carbonic anhydrase XII,active,active,active,6.0,CHEMBL1200633,O43570,CA12
+804,CHEMBL2955,Homo sapiens,Sphingosine 1-phosphate receptor Edg-5,active,active,active,7.0,CHEMBL1200633,O95136,S1PR2
+805,CHEMBL2002,Homo sapiens,Inosine-5'-monophosphate dehydrogenase 2,active,active,active,6.0,CHEMBL1200633,P12268,IMPDH2
+806,CHEMBL299,Homo sapiens,Protein kinase C alpha,empty,active,active,7.5,CHEMBL1200633,P17252,PRKCA
+807,CHEMBL1075317,Homo sapiens,WD repeat-containing protein 5,active,active,active,6.0,CHEMBL1200633,P61964,WDR5
+808,CHEMBL4462,Homo sapiens,NAD-dependent deacetylase sirtuin 2,empty,empty,active,6.0,CHEMBL1200633,Q8IXJ6,SIRT2
+809,CHEMBL2169736,Homo sapiens,Tyrosyl-DNA phosphodiesterase 2,empty,active,active,6.0,CHEMBL1200633,O95551,TDP2
+810,CHEMBL275,Homo sapiens,Phosphodiesterase 4B,empty,active,active,6.0,CHEMBL1200633,Q07343,PDE4B
+811,CHEMBL2617,Homo sapiens,Tryptase beta-1,empty,active,active,6.0,CHEMBL1200633,Q15661,TPSAB1
+812,CHEMBL2150837,Homo sapiens,ATPase family AAA domain-containing protein 2,active,active,active,6.0,CHEMBL1200633,Q6PL18,ATAD2
+813,CHEMBL2094108,Homo sapiens,Protein farnesyltransferase,active,active,active,6.0,CHEMBL1200633,P49354,FNTA
+814,CHEMBL1907603,Homo sapiens,Glutamate NMDA receptor; GRIN1/GRIN2B,empty,empty,active,5.0,CHEMBL1200633,Q05586,GRIN1
+815,CHEMBL4361,Homo sapiens,Induced myeloid leukemia cell differentiation protein Mcl-1,empty,active,active,6.0,CHEMBL1200633,Q07820,MCL1
+816,CHEMBL3712907,Homo sapiens,Transmembrane domain-containing protein TMIGD3,empty,active,active,6.0,CHEMBL1200633,P0DMS9,TMIGD3
+817,CHEMBL4822,Homo sapiens,Beta-secretase 1,empty,active,active,6.0,CHEMBL1200633,P56817,BACE1
+818,CHEMBL3142,Homo sapiens,DNA-dependent protein kinase,empty,active,active,7.5,CHEMBL1200633,P78527,PRKDC
+819,CHEMBL2288,Homo sapiens,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,active,active,active,6.0,CHEMBL1200633,Q13526,PIN1
+820,CHEMBL2069156,Homo sapiens,Kelch-like ECH-associated protein 1,active,active,active,6.0,CHEMBL1200633,Q14145,KEAP1
+821,CHEMBL3137262,Homo sapiens,LSD1/CoREST complex,active,active,active,6.0,CHEMBL1200633,O60341,KDM1A
+822,CHEMBL1907604,Homo sapiens,Glutamate NMDA receptor; GRIN1/GRIN2A,active,active,active,5.0,CHEMBL1200633,Q05586,GRIN1
+823,CHEMBL3594,Homo sapiens,Carbonic anhydrase IX,active,active,active,6.0,CHEMBL1200633,Q16790,CA9
+824,CHEMBL4601,Homo sapiens,Tyrosine-protein kinase BRK,active,active,active,6.5,CHEMBL1200633,Q13882,PTK6
